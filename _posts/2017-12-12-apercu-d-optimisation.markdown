@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comment nous optimisons les principales tâches sur le site Canada.ca"
-pubdate: "le 12 déc, 2017"
+pubdate: "12 déc, 2017"
 langpage: "/blog-dto/category/2017/12/12/optimization-overview.html"
 date:   2017-12-12 09:48:44 +0100
 categories: category
