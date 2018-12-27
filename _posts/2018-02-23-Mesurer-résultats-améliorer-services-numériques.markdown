@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mesurer les résultats pour améliorer les services numériques"
-pubdate: "23 févr 2018"
+pubdate: "23 février 2018"
 gradelevel: 11.1
 langpage: "/blog-dto/category/2018/02/23/Improve-digital-services-measuring-outcomes.html"
 date:   2018-02-23 09:48:44 +0100
