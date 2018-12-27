@@ -2,9 +2,9 @@
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 pubdate: "10 mai 2018"
-ref: collab-health
+langpage: "url to english"
 date:   2018-05-10 08:34:44 +0100
-datemodified: "Date de modification : le 10 mai 2018"
+datemodified: "le 10 mai 2018"
 published: true
 lang: fr
 alt: Des membres de l'équipe de projet de Santé Canada et du Secrétariat du Conseil du Trésor devant un écran montrant des graphiques.
