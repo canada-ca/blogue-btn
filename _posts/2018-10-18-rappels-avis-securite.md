@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Rappels et avis de sécurité : Un projet d’optimisation pour mieux protéger les Canadiens"
-pubdate: "18 octobre 2018"
+pubdate: "18 octobre, 2018"
 langpage: "/blog-dto/2018/10/18/recalls-safety-alerts.html"
 date:   2018-10-18
-datemodified: "le 18 octobre 2018"
 published: true
 lang: fr
 alt: Photo illustrant l’élaboration d’histoires liées à des emplois. 
