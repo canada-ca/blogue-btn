@@ -2,9 +2,8 @@
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 pubdate: "10 mai 2018"
-langpage: "url to english"
+langpage: "/blog-dto/2018/05/10/collab-health-optimize.html"
 date:   2018-05-10 08:34:44 +0100
-datemodified: "le 10 mai 2018"
 published: true
 lang: fr
 alt: Des membres de l'équipe de projet de Santé Canada et du Secrétariat du Conseil du Trésor devant un écran montrant des graphiques.
