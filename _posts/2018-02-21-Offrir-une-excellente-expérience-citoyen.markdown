@@ -2,9 +2,9 @@
 layout: post
 title:  "Offrir une excellente expérience pour les citoyens"
 pubdate: "le 21 févr 2018"
-ref: citizen-experience
+langpage: "url to english"
 date:   2018-02-21 09:48:44 +0100
-datemodified: "Date de modification : le 21 févr 2018"
+datemodified: "le 21 févr 2018"
 categories: category
 published: true
 lang: fr
