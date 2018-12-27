@@ -4,7 +4,7 @@ title:  "Rappels et avis de sécurité : Un projet d’optimisation pour mieux p
 pubdate: "18 octobre 2018"
 ref: recalls
 date:   2018-10-18
-datemodified: "Date de modification : le 18 octobre 2018"
+datemodified: "le 18 octobre 2018"
 published: true
 lang: fr
 alt: Photo illustrant l’élaboration d’histoires liées à des emplois. 
