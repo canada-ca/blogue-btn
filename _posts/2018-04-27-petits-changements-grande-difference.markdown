@@ -2,9 +2,9 @@
 layout: post
 title:  "Canada.ca : De petits changements peuvent faire une grande différence"
 pubdate: "27 avril 2018"
-ref: small-big
+langpage: "url to english"
 date:   2018-04-27 16:34:44 +0100
-datemodified: "Date de modification : le 27 avril 2018"
+datemodified: "le 27 avril 2018"
 published: true
 lang: fr
 alt: Une photo de l'honorable Scott Brison
