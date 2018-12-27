@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aider les Canadiens à lancer une entreprise"
-pubdate: "le 20 févr 2018"
+pubdate: "20 févr, 2018"
 langpage: "/blog-dto/2018/02/20/Starting_a_business.html"
 date:   2018-02-20 09:48:44 +0100
 categories: category
