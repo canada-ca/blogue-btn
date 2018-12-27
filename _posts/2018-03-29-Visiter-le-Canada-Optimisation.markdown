@@ -2,10 +2,9 @@
 layout: post
 title:  "Visiter le Canada : optimisation"
 pubdate: "29 mars 2018"
-langpage: "url to english"
+langpage: "/blog-dto/2018/03/29/Visit-Canada-Optimization.html"
 date:   2018-03-29 16:34:44 +0100
 published: true
-datemodified: "le 29 mars 2018"
 lang: fr
 alt: Cette image montre deux entonnoirs qui comparent, avant et après l'optimisation.
 description: Le Bureau de la transformation numérique (BTN) a collaboré avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) afin d’aider les gens à mieux déterminer de quels documents ils ont besoin pour visiter le Canada. Voici comment ce projet d’optimisation s’est déroulé.
