@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Offrir une excellente expérience pour les citoyens"
-pubdate: "le 21 févr 2018"
+pubdate: "21 février 2018"
 langpage: "/blog-dto/category/2018/02/21/Delivering-citizen-experience.html"
 date:   2018-02-21 09:48:44 +0100
 categories: category
