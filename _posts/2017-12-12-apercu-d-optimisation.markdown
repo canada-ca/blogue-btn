@@ -2,9 +2,9 @@
 layout: post
 title:  "Comment nous optimisons les principales tâches sur le site Canada.ca"
 pubdate: "le 12 déc, 2017"
-ref: optimization-process
+langpage: "url to english"
 date:   2017-12-12 09:48:44 +0100
-datemodified: "Date de modification : le 12 déc, 2017"
+datemodified: "le 12 déc, 2017"
 categories: category
 published: true
 lang: fr
