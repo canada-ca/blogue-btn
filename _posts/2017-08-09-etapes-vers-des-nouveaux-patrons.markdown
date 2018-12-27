@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Étapes vers des nouveaux patrons de conception"
-ref: steps
+langpage: "url to english"
 date:   2017-08-09 09:48:44 +0100
 categories: category
 published: false
