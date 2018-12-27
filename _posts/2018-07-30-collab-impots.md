@@ -4,7 +4,7 @@ title:  "L’ARC et le SCT collaborent afin d’optimiser le contenu de la page 
 pubdate: "16 août 2018"
 langpage: "url to english"
 date:   2018-08-16
-datemodified: " le 16 août 2018"
+datemodified: "le 16 août 2018"
 published: true
 lang: fr
 alt: Capture d'écran montrant la page TPS / TVH avant et après et indiquant les différences.
