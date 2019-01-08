@@ -2,7 +2,7 @@
 layout: post
 title:  "Rappels et avis de sécurité : Un projet d’optimisation pour mieux protéger les Canadiens"
 pubdate: "18 octobre 2018"
-langpage: "/blog-dto/2018/10/18/recalls-safety-alerts.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/10/18/recalls-safety-alerts.html"
 date:   2018-10-18
 published: true
 lang: fr

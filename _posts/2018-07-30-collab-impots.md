@@ -2,7 +2,7 @@
 layout: post
 title:  "L’ARC et le SCT collaborent afin d’optimiser le contenu de la page Web consacrée à la TPS/TVH et aux retenues sur la paie"
 pubdate: "16 août 2018"
-langpage: "/blog-dto/2018/08/16/collab-gsthst-payroll.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/08/16/collab-gsthst-payroll.html"
 date:   2018-08-16
 published: true
 lang: fr

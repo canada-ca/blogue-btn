@@ -3,7 +3,7 @@ layout: post
 title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
 pubdate: "30 mai 2018"
 gradelevel: 8
-langpage: "/blog-dto/2018/05/30/trust-and-older-content.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/05/30/trust-and-older-content.html"
 date:   2018-05-30 09:48:44 +0100
 published: true
 lang: fr

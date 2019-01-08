@@ -2,7 +2,7 @@
 layout: post
 title:  "Aider les Canadiens à lancer une entreprise"
 pubdate: "20 février 2018"
-langpage: "/blog-dto/2018/02/20/Starting_a_business.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/02/20/Starting_a_business.html"
 date:   2018-02-20 09:48:44 +0100
 categories: category
 published: true

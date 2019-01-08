@@ -2,7 +2,7 @@
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 pubdate: "10 mai 2018"
-langpage: "/blog-dto/2018/05/10/collab-health-optimize.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/05/10/collab-health-optimize.html"
 date:   2018-05-10 08:34:44 +0100
 published: true
 lang: fr

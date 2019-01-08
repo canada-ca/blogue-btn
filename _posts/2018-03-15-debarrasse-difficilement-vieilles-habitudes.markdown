@@ -2,7 +2,7 @@
 layout: post
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
 pubdate: "14 mars 2018"
-langpage: "/blog-dto/2018/03/14/old-habits-die-hard.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/03/14/old-habits-die-hard.html"
 date:  2018-03-14 09:48:44 +0100
 published: true
 lang: fr

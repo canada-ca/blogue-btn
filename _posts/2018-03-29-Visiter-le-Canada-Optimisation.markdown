@@ -2,7 +2,7 @@
 layout: post
 title:  "Visiter le Canada : optimisation"
 pubdate: "29 mars 2018"
-langpage: "/blog-dto/2018/03/29/Visit-Canada-Optimization.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/03/29/Visit-Canada-Optimization.html"
 date:   2018-03-29 16:34:44 +0100
 published: true
 lang: fr

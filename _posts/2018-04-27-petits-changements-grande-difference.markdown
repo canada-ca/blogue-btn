@@ -2,7 +2,7 @@
 layout: post
 title:  "Canada.ca : De petits changements peuvent faire une grande différence"
 pubdate: "27 avril 2018"
-langpage: "/blog-dto/2018/04/27/small-changes-big-difference.html"
+langpage: "https://canada-ca.github.io/blog-dto/2018/04/27/small-changes-big-difference.html"
 date:   2018-04-27 16:34:44 +0100
 published: true
 lang: fr
