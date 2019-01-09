@@ -41,7 +41,7 @@ Les tâches – simples et complexes – en lien avec le gouvernement du Canada 
 
 <div class="clearfix"></div>
 
-[Voir les 100 tâches principales de Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
+[Voir les 100 tâches principales de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html)
 
 ## Les tâches principales sont le fondement de la conception de Canada.ca
 
@@ -116,6 +116,6 @@ Dites-nous ce que vous pensez de la gestion des tâches principales, par courrie
 
 ## Apprenez-en davantage sur les tâches principales
 
-* [100 tâches principales du gouvernement du Canada](https://canada-ca.github.io/pages/taches-principales-canada-ca.html).
+* [100 tâches principales du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html).
 * [What Really Matters: Focusing on Top Tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) (en anglais ) de Gerry McGovern, décrit la valeur des tâches principales et la méthode de vote par sondage pour les valider.
 * [How to conduct a top task analysis](https://measuringu.com/top-tasks/) (en anglais) de Jeff Sauro, explore dans le détail l’analyse des données relatives aux tâches principales tirées de sondages, ainsi que les statistiques associées.
