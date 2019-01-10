@@ -2,22 +2,21 @@
 layout: post
 title:  "Comment nous optimisons les principales tâches sur le site Canada.ca"
 pubdate: "12 décembre 2017"
-langpage: "https://canada-ca.github.io/blog-dto/category/2017/12/12/optimization-overview.html"
+langpage: "https://canada-ca.github.io/blog-dto/2017/12/12/optimization-overview.html"
 date:   2017-12-12 09:48:44 +0100
-categories: category
 published: true
 lang: fr
-alt: Comment nous optimisions le site Canadapointca. Recherche exploratoire. Essais de base. Conception/prototypage. Essais de validation. Succès? Lancement. 
+alt: Comment nous optimisions le site Canadapointca. Recherche exploratoire. Essais de base. Conception/prototypage. Essais de validation. Succès? Lancement.
 description: Les projets d’optimisation sont un moyen d’améliorer considérablement l’expérience des Canadiens sans investir beaucoup de temps et d’argent.
 ---
 
 Le site Web Canada.ca a été conçu pour simplifier la tâche des Canadiens qui veulent trouver ou comprendre les renseignements ou les services offerts par le gouvernement du Canada. Les essais récents montrent que les gens trouvent ce qu’ils recherchent, mais qu’ils ne comprennent pas toujours l’information qu’ils lisent. Même s’il y reste encore du travail à faire dans le domaine des recherches de tâches, nous réorientons maintenant nos efforts sur la réussite des tâches.
-  
+
 Les projets d’optimisation sont un moyen d’améliorer considérablement l’expérience des Canadiens sans investir beaucoup de temps et d’argent. Ces projets nous permettent de nous attaquer à la cause fondamentale de la plupart des problèmes de facilité d’utilisation auxquels les gens sont confrontés : un contenu mal écrit, trop complexe et désorganisé, écrit pour des fonctionnaires et non pour le public. Ces projets représentent également un excellent moyen d’appliquer les méthodes de conception de l’expérience de l’utilisateur (EU) d’une manière ciblée et allégée en vue d’apporter une amélioration concrète.
 
 ## Projets d’optimisation : améliorer des tâches principales particulières
 
-Les projets d’optimisation sont courts, généralement de 3 à 4 mois. Ils sont intensément fixés sur l’amélioration du taux de réussite des utilisateurs pour des tâches principales particulières. 
+Les projets d’optimisation sont courts, généralement de 3 à 4 mois. Ils sont intensément fixés sur l’amélioration du taux de réussite des utilisateurs pour des tâches principales particulières.
 
 Le premier défi consiste à penser comme un citoyen et à définir des tâches. Parfois, une tâche est assez simple à déterminer, et les gens peuvent l’accomplir en trouvant et en lisant le contenu sur une page Web. Il existe des milliers de ces tâches sur le Web, et elles peuvent être corrigées rapidement.
 
@@ -28,9 +27,9 @@ La simplification des tâches complexes peut nécessiter une refonte complète d
 ## Méthodologie pour l’amélioration de la réussite des tâches
 
 <figure>
-  
+
 <img class="img-responsive" alt="Comment nous optimisions le site Canadapointca - des détails suivent" src="/images/process/optimization-process-FR.png">
-  
+
 <figcaption>
 <p>Données et éléments probants dirigeant la séquence que nous utilisons sur 3 à 4 mois pour optimiser les services en ligne :</p>
 
@@ -70,7 +69,7 @@ Les connaissances acquises lors des essais de facilité d’emploi sont égaleme
 * [Spécifications du contenu et de l’architecture de l’information pour Canada.ca](link)
 * [Guide de rédaction du contenu du site Canada.ca](link).
 
-## Favoriser l’amélioration continue 
+## Favoriser l’amélioration continue
 
 Les projets d’optimisation ne ciblent pas uniquement l’amélioration tangible des tâches principales particulières à un moment donné. Ils aident également les ministères et les organismes à renforcer leurs capacités d’amélioration continue. Les équipes qui participent à ces projets apprennent rapidement et répondent rapidement aux données probantes issues des recherches et des essais. Elles obtiennent des compétences et une expérience précieuses en conception de prototypes sur le terrain. La réussite des projets d’optimisation à court terme renforce la confiance et accélère le mouvement; ces projets agissent comme un catalyseur pour une amélioration durable et continue du site Canada.ca.
 
@@ -80,7 +79,7 @@ Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vo
 
 ## En apprendre davantage sur les techniques d’optimisation
 
-* [Top Task Management](https://vimeo.com/98514311), une présentation de Gerry McGovern sur le modèle de recherche et de gestion qui permet d’améliorer l’expérience client 
+* [Top Task Management](https://vimeo.com/98514311), une présentation de Gerry McGovern sur le modèle de recherche et de gestion qui permet d’améliorer l’expérience client
 * [Benchmarking and performance measurement of content transformation](https://insidegovuk.blog.gov.uk/2017/09/22/benchmarking-and-performance-measurement-of-content-transformation/), un billet de blogue sur Gov.uk
 * [Sprint](https://www.thesprintbook.com/), un livre rédigé par Jake Knapp avec la collaboration John Zeratsky et Braden Kowitz, décrit le processus de conception permettant de corriger les problèmes relatifs aux produits et services
 * [Sprint Stories](https://sprintstories.com/) présente des études de cas par le gouvernement et le secteur privé sur l’utilisation du processus de sprint de conception
