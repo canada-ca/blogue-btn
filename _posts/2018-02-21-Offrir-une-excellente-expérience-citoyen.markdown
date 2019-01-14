@@ -2,7 +2,7 @@
 layout: post
 title:  "Offrir une excellente expérience pour les citoyens"
 pubdate: "21 février 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/02/21/Delivering-citizen-experience.html"
+langpage: "https://blog.canada.ca/2018/02/21/Delivering-citizen-experience.html"
 date:   2018-02-21 09:48:44 +0100
 published: true
 lang: fr

@@ -2,7 +2,7 @@
 layout: post
 title:  "Comment nous optimisons les principales tâches sur le site Canada.ca"
 pubdate: "12 décembre 2017"
-langpage: "https://canada-ca.github.io/blog-dto/2017/12/12/optimization-overview.html"
+langpage: "https://blog.canada.ca/2017/12/12/optimization-overview.html"
 date:   2017-12-12 09:48:44 +0100
 published: true
 lang: fr
@@ -75,7 +75,7 @@ Les projets d’optimisation ne ciblent pas uniquement l’amélioration tangibl
 
 ## Qu’en pensez-vous?
 
-Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vous pouvez publier des gazouillis en utilisant le mot-clic [#Canadapointca](https://twitter.com/search?q=%23Canadadotca) ou nous envoyer un courriel à l’adresse <information@tbs-sct.gc.ca>.
+Dites-nous ce que vous pensez des projets d’optimisation du site Canada.ca. Vous pouvez publier des gazouillis en utilisant le mot-clic [#Canadapointca](https://twitter.com/search?q=%23Canadadotca) ou nous envoyer un courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca).
 
 ## En apprendre davantage sur les techniques d’optimisation
 

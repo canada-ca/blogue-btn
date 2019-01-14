@@ -2,7 +2,7 @@
 layout: post
 title:  "Travail concerté pour optimiser le contenu sur les maladies et la vaccination"
 pubdate: "10 mai 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/05/10/collab-health-optimize.html"
+langpage: "https://blog.canada.ca/2018/05/10/collab-health-optimize.html"
 date:   2018-05-10 08:34:44 +0100
 published: true
 lang: fr
@@ -74,11 +74,11 @@ Nous venons de terminer une autre série de tests de facilité d’emploi avec l
 </figure>
 
 ## Nous voulons connaître votre opinion ##
-Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [information@tbs-sct.gc.ca](mailto:information@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadadotca.
+Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic #Canadadotca.
 
 ## Pour en savoir plus
 
-* [Résumé de projet : Maladies et vaccination](https://canada-ca.github.io/research-recherche/maladies-resume-recherche.html)
+* [Résumé de projet : Maladies et vaccination](https://blogue.canada.ca/resumes-recherche/maladies-resume-recherche.html)
 
 ## À propos de l'auteur
 

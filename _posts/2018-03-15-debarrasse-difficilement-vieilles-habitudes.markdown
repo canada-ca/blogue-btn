@@ -2,7 +2,7 @@
 layout: post
 title:  "On se débarrasse difficilement des vieilles habitudes (lorsque les sentiments font obstacle)"
 pubdate: "14 mars 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/03/14/old-habits-die-hard.html"
+langpage: "https://blog.canada.ca/2018/03/14/old-habits-die-hard.html"
 date:  2018-03-14 09:48:44 +0100
 published: true
 lang: fr
@@ -16,7 +16,7 @@ Je travaille dans le domaine du contenu numérique depuis une dizaine d’année
 
 L’exposé de Gerry McGovern portant sur les principales tâches et l’expérience de l’utilisateur (EU) a frappé en plein dans le mille :
 
-Le principal défi lié à l’amélioration de l’EU de nos sites et services ne consiste pas en l’adoption d’une technologie ou d’un outil en particulier; il s'agit plutôt d’adopter de nouvelles valeurs et approches, autrement dit, un changement de culture. 
+Le principal défi lié à l’amélioration de l’EU de nos sites et services ne consiste pas en l’adoption d’une technologie ou d’un outil en particulier; il s'agit plutôt d’adopter de nouvelles valeurs et approches, autrement dit, un changement de culture.
 
 <figure>
 <img class="img-responsive" alt="Photographie de Celeste Côté durant l’atelier de maître de Gerry McGovern au Bayview Yards à Ottawa, le 13 février 2018" src="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
@@ -37,7 +37,7 @@ McGovern nous a mis en garde contre ce qu’il appelle le culte du volume, ou l�
 
 ## Alors, à quoi ressemble le succès et comment peut-on le mesurer?
 
-M. McGovern préconise cette approche toute simple : 
+M. McGovern préconise cette approche toute simple :
 
 1.	Déterminez les tâches que les utilisateurs essaient d’accomplir sur nos sites Web (au moyen d’analyses et de sondages sur les sites);
 2.	Renseignez-vous à savoir si les utilisateurs réussissent à accomplir leur tâche;
@@ -54,8 +54,8 @@ Les étapes sont relativement simples. Maintenant, notre principale tâche consi
 ## En savoir plus
 
 - [Visitez le site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
-- [Lire comment nous identifions les principales tâches pour Canada.ca](https://canada-ca.github.io/2017/12/11/100-taches-du-gc.html)
-- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca](https://canada-ca.github.io/category/2017/12/12/apercu-d-optimisation.html)
+- [Lire comment nous identifions les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
+- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
 
 <hr>
 

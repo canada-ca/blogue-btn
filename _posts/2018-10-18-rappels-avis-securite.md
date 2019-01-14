@@ -2,11 +2,11 @@
 layout: post
 title:  "Rappels et avis de sécurité : Un projet d’optimisation pour mieux protéger les Canadiens"
 pubdate: "18 octobre 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/10/18/recalls-safety-alerts.html"
+langpage: "https://blog.canada.ca/2018/10/18/recalls-safety-alerts.html"
 date:   2018-10-18
 published: true
 lang: fr
-alt: Photo illustrant l’élaboration d’histoires liées à des emplois. 
+alt: Photo illustrant l’élaboration d’histoires liées à des emplois.
 description: Parmi les 100 principales tâches sur Canada.ca, le nombre de rappels et d’alertes de sécurité apparaît en huitième place. Le site reçoit près de 7 millions de visites annuelles, dont 71 % par téléphone mobile. Pour ce qui est des alertes concernant les aliments, le pourcentage grimpe à 84 %.
 ---
 
@@ -102,4 +102,4 @@ Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courr
 
 ## Pour en savoir plus ##
 
-* [Résumé de projet : Rappels et avis de sécurité ](https://canada-ca.github.io/research-recherche/rappels-resume-recherche.html)
+* [Résumé de projet : Rappels et avis de sécurité ](https://blogue.canada.ca/resumes-recherche/rappels-resume-recherche.html)

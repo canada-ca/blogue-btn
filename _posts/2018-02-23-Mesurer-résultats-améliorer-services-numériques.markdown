@@ -3,7 +3,7 @@ layout: post
 title:  "Mesurer les résultats pour améliorer les services numériques"
 pubdate: "23 février 2018"
 gradelevel: 11.1
-langpage: "https://canada-ca.github.io/blog-dto/2018/02/23/Improve-digital-services-measuring-outcomes.html"
+langpage: "https://blog.canada.ca/2018/02/23/Improve-digital-services-measuring-outcomes.html"
 date:   2018-02-23 09:48:44 +0100
 published: true
 lang: fr
@@ -31,8 +31,8 @@ Le Canada est présentement dans une meilleure position pour atteindre cet objec
 ## En savoir plus
 
 - [Visitez le site Web de Gerry McGovern](http://www.gerrymcgovern.com/)
-- [Lire comment nous identifions les principales tâches pour Canada.ca](https://canada-ca.github.io/2017/12/11/100-taches-du-gc.html)
-- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca](https://canada-ca.github.io/category/2017/12/12/apercu-d-optimisation.html)
+- [Lire comment nous identifions les principales tâches pour Canada.ca](https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html)
+- [Voir comment la mesure de réussite des tâches est primordiale pour optimiser les tâches principales de Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
 
 <hr>
 

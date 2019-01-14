@@ -2,7 +2,7 @@
 layout: post
 title:  "Visiter le Canada : optimisation"
 pubdate: "29 mars 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/03/29/Visit-Canada-Optimization.html"
+langpage: "https://blog.canada.ca/2018/03/29/Visit-Canada-Optimization.html"
 date:   2018-03-29 16:34:44 +0100
 published: true
 lang: fr
@@ -118,13 +118,13 @@ Avant l'optimisation, 35% des clics de la page de sujet Visiter le Canada sont a
 Comme le montre le graphique, le nombre de personnes qui ont réussi à trouver les pages de présentation de demande a fait un bond de 27 points de pourcentage, passant de 35 % avant à 62 % après l’optimisation. Nous avons également constaté qu’un plus grand nombre de personnes utilisent le menu de navigation pour commencer le processus. Grâce à ce projet, les personnes qui souhaitent visiter le Canada peuvent passer moins de temps à s’inquiéter au sujet des documents de voyage et profiter davantage de leur visite dans notre pays.
 
 ## Qu’en pensez-vous?
-Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou un gazouillis au moyen du mot-clic #Canadapointca.
+Faites-nous savoir ce que vous pensez de ce projet. Envoyez-nous un courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou un gazouillis au moyen du mot-clic #Canadapointca.
 
 ## Pour en savoir plus long sur ce projet
 
 - [Consultez la page Visiter le Canada optimisée](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html)
 - [Lisez le rapport de Statistique Canada sur les voyages entre le Canada et d’autres pays](http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-fra.htm)
-- [Consultez l’inventaire des tâches principales pour Canada.ca](https://canada-ca.github.io/pages/taches-principales-canada-ca.html)
+- [Consultez l’inventaire des tâches principales pour Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/taches-principales-pour-canada-ca.html)
 
 
 ## À propos d'Eric Cooper

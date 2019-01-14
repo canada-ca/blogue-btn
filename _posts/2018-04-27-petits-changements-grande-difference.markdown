@@ -2,7 +2,7 @@
 layout: post
 title:  "Canada.ca : De petits changements peuvent faire une grande différence"
 pubdate: "27 avril 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/04/27/small-changes-big-difference.html"
+langpage: "https://blog.canada.ca/2018/04/27/small-changes-big-difference.html"
 date:   2018-04-27 16:34:44 +0100
 published: true
 lang: fr
@@ -42,7 +42,7 @@ Le Secrétariat du Conseil du Trésor travaille avec des partenaires de projet d
 
 Ces équipes savent que les prototypes ont du succès parce qu’ils ont été testés auprès des utilisateurs. Avant de commencer, elles ont demandé aux Canadiens d’utiliser les services, et 40 % des utilisateurs ont réussi à trouver les réponses dont ils avaient besoin. Une fois le contenu amélioré, le taux de réussite a grimpé à 77 %. Pensez-y : les pages de Canada.ca reçoivent des millions de visites chaque année.  De telles améliorations feront une grande différence.
 
-Consultez l’[aperçu des projets](https://canada-ca.github.io/pages/apercu-projet.html) pour en savoir davantage sur ces services améliorés.
+Consultez l’[aperçu des projets](https://blogue.canada.ca/pages/apercu-projet.html) pour en savoir davantage sur ces services améliorés.
 
 Lorsqu’il s’agit de rédiger du contenu pour le gouvernement numérique, de petits changements de contenu bien documentés peuvent faire une grande différence pour les Canadiens. Le contenu numérique nous oblige à nous concentrer sur la compréhension des principes de base, à savoir :
 
@@ -54,7 +54,7 @@ Le gouvernement numérique offre de nombreuses possibilités de produire de meil
 
 ## Pour en savoir plus sur le Bureau de la transformation numérique
 
-- [Améliorer le contenu sur Canada.ca](https://canada-ca.github.io/pages/apercu-projet.html)
+- [Améliorer le contenu sur Canada.ca](https://blogue.canada.ca/pages/apercu-projet.html)
 
 ## À propos de l'auteur
 

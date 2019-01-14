@@ -2,7 +2,7 @@
 layout: post
 title:  "Aider les Canadiens à lancer une entreprise"
 pubdate: "20 février 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/02/20/Starting_a_business.html"
+langpage: "https://blog.canada.ca/2018/02/20/Starting_a_business.html"
 date:   2018-02-20 09:48:44 +0100
 published: true
 lang: fr
@@ -94,11 +94,11 @@ Comme le montre le diagramme, le flux est comme un entonnoir menant vers les ré
 
 ## Nous voulons connaître votre avis
 
-Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à <information@tbs-sct.gc.ca> ou un gazouillis en utilisant le mot-clic #Canadadotca.
+Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou un gazouillis en utilisant le mot-clic #Canadadotca.
 
 ## En savoir plus sur le projet
 
 * [Consultez la page optimisée « Lancer une entreprise »](https://www.canada.ca/fr/services/entreprises/lancer.html)
-* [Consultez le diagramme de décision complet pour le lancement d’une entreprise](https://canada-ca.github.io/pages/decisions-demarrer-entreprise.html)
+* [Consultez le diagramme de décision complet pour le lancement d’une entreprise](https://blogue.canada.ca/pages/decisions-demarrer-entreprise.html)
 * [Lisez sur la manière de faciliter les sprints de conception comme ce projet d’optimisation](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast) (en anglais)
 * [Apprenez comment Gov.UK mène ses projets d’optimisation entrepreneuriale](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/) (en anglais)

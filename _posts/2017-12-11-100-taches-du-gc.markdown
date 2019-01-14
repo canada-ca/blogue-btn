@@ -3,7 +3,7 @@ layout: post
 title:  "De quelle façon déterminons-nous les principales tâches pour Canada.ca"
 pubdate: "11 décembre 2017"
 gradelevel: 7.8
-langpage: "https://canada-ca.github.io/blog-dto/2017/12/11/top-100-for-gc.html"
+langpage: "https://blog.canada.ca/2017/12/11/top-100-for-gc.html"
 date:   2017-12-11 09:48:44 +0100
 published: true
 lang: fr
@@ -112,7 +112,7 @@ Toutefois, dans certains cas, soutenir les tâches en ligne est beaucoup plus co
 
 ## Nous voulons connaître votre opinion
 
-Dites-nous ce que vous pensez de la gestion des tâches principales, par courriel à l’adresse <information@tbs-sct.gc.ca> ou par Twitter en utilisant le mot-clic [#CanadaPointCA](https://twitter.com/search?q=%23CanadaPointCA).
+Dites-nous ce que vous pensez de la gestion des tâches principales, par courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou par Twitter en utilisant le mot-clic [#CanadaPointCA](https://twitter.com/search?q=%23CanadaPointCA).
 
 ## Apprenez-en davantage sur les tâches principales
 
