@@ -2,15 +2,14 @@
 layout: post
 title:  "Aider les Canadiens à lancer une entreprise"
 pubdate: "20 février 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/02/20/Starting_a_business.html"
+langpage: "https://blog.canada.ca/2018/02/20/Starting_a_business.html"
 date:   2018-02-20 09:48:44 +0100
-categories: category
 published: true
 lang: fr
 description: Lancer une entreprise est une tâche prioritale pour les Canadiens et en est une qui n’est pas facile. Voici comment le projet d’optimisation s’est déroulé.
 ---
 
-Des dizaines de milliers d’entreprises sont lancées chaque année au Canada « Lancer une entreprise » est une tâche prioritaire pour les Canadiens et en est une qui n’est pas facile. Il y a diverses exigences juridiques d’ordre provincial et fédéral. Les exigences varient selon la taille et le type d’entreprise. Il y a beaucoup de points à réaliser et à comprendre pour faire quelque chose qui devrait aussi facile que possible. 
+Des dizaines de milliers d’entreprises sont lancées chaque année au Canada « Lancer une entreprise » est une tâche prioritaire pour les Canadiens et en est une qui n’est pas facile. Il y a diverses exigences juridiques d’ordre provincial et fédéral. Les exigences varient selon la taille et le type d’entreprise. Il y a beaucoup de points à réaliser et à comprendre pour faire quelque chose qui devrait aussi facile que possible.
 
 En 2017, le Bureau de la transformation numérique a travaillé avec Innovation, Sciences et Développement économique Canada (ISDE) et l’Agence du revenu du Canada (ARC) afin d’améliorer l’expérience de lancement d’une entreprise par l’intermédiaire de Canada.ca. Voici comment le projet d’optimisation s’est déroulé.
 
@@ -20,7 +19,7 @@ Le lancement d’une entreprise est complexe. Il y a une série d’étapes et d
 
 - Corporations Canada, d’ISDE, souhaite aider les personnes à se constituer dans le régime fédéral;
 - l’ARC veut s’assurer que les entreprises obtiennent des comptes d’impôt sur le revenu des sociétés et un numéro d’entreprise;
-- les provinces ont leurs propres processus de constitution en société et de permis. 
+- les provinces ont leurs propres processus de constitution en société et de permis.
 
 Les besoins des entrepreneurs étaient clairs. Ils voulaient :
 
@@ -28,7 +27,7 @@ Les besoins des entrepreneurs étaient clairs. Ils voulaient :
 - comprendre quelles étapes ont déjà été complétées et lesquelles sont pertinentes et requises dans leur situation;
 - ne lire que ce qui s’appliquait à eux, au lieu de tout lire, et être facilement capables de se rendre à l’application nécessaire.
 
-Afin de comprendre ces besoins, nous avons déterminé les différentes mesures et décisions qu’un nouveau propriétaire d’entreprise doit prendre. 
+Afin de comprendre ces besoins, nous avons déterminé les différentes mesures et décisions qu’un nouveau propriétaire d’entreprise doit prendre.
 
 Ce qui a également aidé à mettre en lumière certains des points du processus qui étaient particulièrement problématiques. Voici un exemple de diagramme de décision pour l’une des tâches de lancement d’entreprise, qui a mis en lumière les points problématiques.
 
@@ -37,12 +36,12 @@ Ce qui a également aidé à mettre en lumière certains des points du processus
 <details>
 		<summary>Version texte</summary>
 <p>Le diagramme de décision rédigé à la main commence par « Constituer l’entreprise en société? ». </p>
-  
+
   <ul>
-  <li>Dans l’affirmative, alors il faut « Obtenir un nom d’entreprise unique ou utiliser votre nom » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique)</li> 
+  <li>Dans l’affirmative, alors il faut « Obtenir un nom d’entreprise unique ou utiliser votre nom » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique)</li>
   <li>Pour constituer une entreprise au niveau « fédéral », alors il faut « obtenir un rapport de recherche de dénominations fédéral ou provincial »</li>
   <li>Si à l’échelon « fédéral », alors il faut « présenter votre demande » </li>
-  <li>Si à l’échelon « provincial », le diagramme se termine </li> 
+  <li>Si à l’échelon « provincial », le diagramme se termine </li>
   <li>Si la réponse est « non » à « Constituer l’entreprise en société », alors si vous en êtes le « propriétaire unique – propre nom », allez à « numéro d’entreprise »</li>
   <li>Si la réponse est « non » à « propriétaire unique – propre nom », alors allez à « nom unique » (qui est mis en surbrillance pour montrer qu’il s’agit d’un point problématique), qui comprend les partenariats, les coopératives, autres</li>
   </ul>
@@ -85,21 +84,21 @@ La nouvelle conception a été mise en ligne dans le menu « Entreprises » de C
 <details>
   <summary>Version texte de ce diagramme</summary>
   <p>Le diagramme en entonnoir montre les étapes avant et après. </p>
-  
+
   <p>Avant, dans le haut de l’entonnoir, 520 utilisateurs ont accédé à « Nommer votre entreprise ». Puis, 30 % ont accédé à « Nuans – Rapport Nuans de recherche de dénominations ». Enfin, 5 % ont accédé à la section « En savoir plus » et seulement 2 % ont accédé à « Commander maintenant », où l’entonnoir se termine. </p>
-  
+
 <p>Après l’optimisation, dans le haut de l’entonnoir, 3 081 utilisateurs ont accédé à « Choisir un nom d’entreprise ». 59 % ont ensuite accédé à « Vérifier si ce nom est déjà utilisé ». Puis, 16 % ont accédé à la page « Recherche de noms de sociétés au Canada », où se termine l’entonnoir.</p>
 </details>
 
 Comme le montre le diagramme, le flux est comme un entonnoir menant vers les résultats fructueux au bas de l’image. Avant l’optimisation, seulement 10 personnes (moins de 2 %) se sont rendues de la page « Lancer une entreprise » à la page « Choisir un nom d’entreprise ». Le diagramme « Après » montre ce qui s’est produit 2 mois plus tard : 16 % des visiteurs de la page « Choisir un nom d’entreprise » ont utilisé le nouveau chemin simplifié vers la page de recherche de noms d’entreprise. C’est 55 fois plus de personnes qui ont trouvé leur tâche!
 
-## Nous voulons connaître votre avis 
+## Nous voulons connaître votre avis
 
-Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à <information@tbs-sct.gc.ca> ou un gazouillis en utilisant le mot-clic #Canadadotca.
+Dites-nous ce que vous pensez de ce projet. Envoyez-nous un courriel à [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou un gazouillis en utilisant le mot-clic #Canadadotca.
 
-## En savoir plus sur le projet 
+## En savoir plus sur le projet
 
 * [Consultez la page optimisée « Lancer une entreprise »](https://www.canada.ca/fr/services/entreprises/lancer.html)
-* [Consultez le diagramme de décision complet pour le lancement d’une entreprise](https://canada-ca.github.io/pages/decisions-demarrer-entreprise.html)
+* [Consultez le diagramme de décision complet pour le lancement d’une entreprise](https://blogue.canada.ca/pages/decisions-demarrer-entreprise.html)
 * [Lisez sur la manière de faciliter les sprints de conception comme ce projet d’optimisation](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast) (en anglais)
 * [Apprenez comment Gov.UK mène ses projets d’optimisation entrepreneuriale](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/) (en anglais)

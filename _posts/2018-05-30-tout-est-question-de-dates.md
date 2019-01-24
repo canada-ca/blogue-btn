@@ -3,7 +3,7 @@ layout: post
 title: "Tout est question de dates : la confiance envers le contenu ancien sur Canada.ca"
 pubdate: "30 mai 2018"
 gradelevel: 8
-langpage: "https://canada-ca.github.io/blog-dto/2018/05/30/trust-and-older-content.html"
+langpage: "https://blog.canada.ca/2018/05/30/trust-and-older-content.html"
 date:   2018-05-30 09:48:44 +0100
 published: true
 lang: fr
@@ -99,7 +99,7 @@ Il est très important de ne pas mettre à jour la composante « Date de modific
 
 ## Nous voulons connaître votre opinion ##
 
-Dites-nous ce que vous pensez de notre travail d’optimisation et des changements que nous apportons aux lignes directrices en matière de conception pour Canada.ca. Écrivez-nous par courriel à l’adresse <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> ou sur Twitter en utilisant le mot-clic <a href="https://twitter.com/search?q=%23Canadapointca">#Canadapointca</a>.
+Dites-nous ce que vous pensez de notre travail d’optimisation et des changements que nous apportons aux lignes directrices en matière de conception pour Canada.ca. Écrivez-nous par courriel à l’adresse [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) ou sur Twitter en utilisant le mot-clic <a href="https://twitter.com/search?q=%23Canadapointca">#Canadapointca</a>.
 
 ## À propos de Patrick Lajeunesse ##
 

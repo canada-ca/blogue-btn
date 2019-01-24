@@ -2,7 +2,7 @@
 layout: post
 title:  "L’ARC et le SCT collaborent afin d’optimiser le contenu de la page Web consacrée à la TPS/TVH et aux retenues sur la paie"
 pubdate: "16 août 2018"
-langpage: "https://canada-ca.github.io/blog-dto/2018/08/16/collab-gsthst-payroll.html"
+langpage: "https://blog.canada.ca/2018/08/16/collab-gsthst-payroll.html"
 date:   2018-08-16
 published: true
 lang: fr
@@ -34,9 +34,9 @@ Le but était d’améliorer la trouvabilité, la clarté du langage utilisé, l
 
 ## Le défi ##
 
-Notre processus comprenait la découverte, la recherche et des essais de convivialité de base que nous avons réalisés en concert avec le BTN sur le contenu Web existant du site Canada.ca. Grâce à cela, nous avons été en mesure d’identifier les principales tâches liées à la TPS/TVH et aux retenues sur la paie que nous devions améliorer. 
+Notre processus comprenait la découverte, la recherche et des essais de convivialité de base que nous avons réalisés en concert avec le BTN sur le contenu Web existant du site Canada.ca. Grâce à cela, nous avons été en mesure d’identifier les principales tâches liées à la TPS/TVH et aux retenues sur la paie que nous devions améliorer.
 
-Nos essais de convivialité de base ont révélé plusieurs problèmes de convivialité qui ont entraîné l’échec des tâches, notamment : 
+Nos essais de convivialité de base ont révélé plusieurs problèmes de convivialité qui ont entraîné l’échec des tâches, notamment :
 
 * jargon et formulation complexe ou technique
 * pages longues, complexes, difficiles à comprendre, qui ralentissaient les utilisateurs ou les empêchaient de trouver des détails importants
@@ -61,7 +61,7 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 <details>
 				<summary>Transcription: contenu de la page Web des retenues sur la paie</summary>
 	<p>(Participant)</p>
-	
+
 <p>(Vidéo où une personne examine la page « Aperçu des retenues sur la paie » à Canada.ca. Le participant fait défiler doucement vers le haut et le bas.)</p>
 <p>Je ne vois pas vraiment…</p>
 <p>(Le participant clique pour accéder à la page « RC4110 Employé ou travailleur indépendant? »)</p>
@@ -103,7 +103,7 @@ Cette vidéo illustre les observations et les interactions des participants, en 
 
 Au fur et à mesure que nous développions et testions des prototypes, nous nous rendions compte que certains changements fondamentaux à notre contenu et nos chemins de navigation auraient un impact considérable sur la réussite des tâches.
 
-Dans nos prototypes nous nous sommes attelés à : 
+Dans nos prototypes nous nous sommes attelés à :
 
 * fournir des appels à l’action clairs
 * modifier les liens, les étiquettes et le texte de navigation de manière à ce qu’ils soient exhaustifs et comprennent les mots-clés en début de texte
@@ -122,7 +122,7 @@ Voici un exemple de ce à quoi ressemblaient les pages principales liées aux re
 <img class="img-responsive" alt="Capture d'écran montrant la page Retenues sur la pei avant et après et indiquant les différences." src="/images/taxes-impots/payroll-before-after-fr.png">
 </figure>
 
-Avant l’optimisation, les résultats des essais de convivialité de base indiquaient que la première page dédiée aux retenues sur la paie entraînait de la confusion parce que les utilisateurs éprouvaient de la difficulté à choisir le lien à suivre. 
+Avant l’optimisation, les résultats des essais de convivialité de base indiquaient que la première page dédiée aux retenues sur la paie entraînait de la confusion parce que les utilisateurs éprouvaient de la difficulté à choisir le lien à suivre.
 
 Après la validation, nous avons organisé les sujets suivant un nouveau modèle. Nous les avons disposés par séquence afin de fournir un contexte. Nous avons constaté que la structuration étape par étape des sujets aidait les utilisateurs à déterminer plus facilement le chemin de navigation approprié. La trouvabilité s’est améliorée grâce à la structuration des recherches des utilisateurs par séquence.
 
@@ -132,14 +132,14 @@ Après la validation, nous avons organisé les sujets suivant un nouveau modèle
 
 De plus, avant l’optimisation, les utilisateurs ne savaient pas sur quels éléments cliquer, car les étiquettes n’étaient pas suffisamment descriptives. Par exemple, les options « Facturer la TPS/TVH », « Déclarations de TPS/TVH » et « Perception de la TPS/TVH » semblaient toutes très similaires.
 
-Après l’optimisation, la page de sujet a eu beaucoup plus de succès, parce qu’elle comportait des liens clairs et descriptifs qui aidaient les utilisateurs à trouver la page appropriée. 
+Après l’optimisation, la page de sujet a eu beaucoup plus de succès, parce qu’elle comportait des liens clairs et descriptifs qui aidaient les utilisateurs à trouver la page appropriée.
 
 
 ## Prochaines étapes ##
 
-Notre plus récente série d’essais de convivialité de la validation a révélé une amélioration : 28 points de pourcentage à une moyenne de 90 % en matière de trouvabilité des tâches. Dans l’ensemble la réussite des tâches s’est améliorée : 27 points de pourcentage à une moyenne de 76 %! Nous travaillons actuellement à intégrer les aspects réussis des prototypes en production. 
+Notre plus récente série d’essais de convivialité de la validation a révélé une amélioration : 28 points de pourcentage à une moyenne de 90 % en matière de trouvabilité des tâches. Dans l’ensemble la réussite des tâches s’est améliorée : 27 points de pourcentage à une moyenne de 76 %! Nous travaillons actuellement à intégrer les aspects réussis des prototypes en production.
 
-Nous continuerons de travailler en étroite collaboration avec les secteurs de programmes, c’est-à-dire la Division des programmes de renseignement (Direction générale des services de cotisation et de prestations) et la Section des politiques et recherches législatives (Direction générale des recouvrements et de la vérification), afin de nous assurer que le contenu optimisé a été examiné aux fins d’exactitude des aspects techniques, tout en étant ouverts aux suggestions de modifications visant à améliorer l’exactitude de l’information relative aux trois tâches identifiées. 
+Nous continuerons de travailler en étroite collaboration avec les secteurs de programmes, c’est-à-dire la Division des programmes de renseignement (Direction générale des services de cotisation et de prestations) et la Section des politiques et recherches législatives (Direction générale des recouvrements et de la vérification), afin de nous assurer que le contenu optimisé a été examiné aux fins d’exactitude des aspects techniques, tout en étant ouverts aux suggestions de modifications visant à améliorer l’exactitude de l’information relative aux trois tâches identifiées.
 
 Restez à l’affût des nouvelles concernant le nouveau contenu qui sera très bientôt publié sur Canada.ca!
 
@@ -148,4 +148,4 @@ Dites-nous ce que vous pensez de la gestion des tâches. Écrivez-nous par courr
 
 ## Pour en savoir plus ##
 
-* [Résumé de projet : Déclaration de la TPS/TVH et de retenues sur la paie](https://canada-ca.github.io/research-recherche/impots-resume-recherche.html)
+* [Résumé de projet : Déclaration de la TPS/TVH et de retenues sur la paie](https://blogue.canada.ca/resumes-recherche/impots-resume-recherche.html)
