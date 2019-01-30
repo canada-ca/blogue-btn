@@ -1,0 +1,58 @@
+---
+layout: blog
+lang: fr
+pubdate: "10 mai 2018"
+---
+
+<!--/* Hide Nav; Hide Right Rail /*-->
+
+<main role="main" property="mainContentOfPage" class="container">
+
+
+<h1 property="name" id="wb-cont" dir="ltr">
+Blogue de Canada.ca</h1>
+
+<p>Validations et perspectives de l’équipe Canada.ca.</p>
+
+<h2 class="wb-inv">Nouveaux articles</h2>
+
+<div class="row">
+
+	   <div class="wb-eqht">
+	  {% assign posts=site.posts | where:"lang", page.lang %}
+	    {% for post in posts %}
+		   {% unless post.draft %}
+
+	<section class="col-md-7 col-sm-8 col-xs-12 blog-list">
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+	<p>{{ post.description }}</p><p><small>[{{ post.date | date: "%F" }}]</small> </p>
+	</section>
+
+	<section class="col-md-5 col-sm-4 hidden-xs blog-list blog-photo">
+
+	       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> <img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
+
+	</section>
+
+
+	  {% endunless %}
+	  {% endfor %}
+
+		</div>
+<div>
+<div class="col-sm-8">
+    <section>
+      <h2>Suivez</h2>
+      <ul class="mrgn-tp-lg">
+        <li>
+          <a href="https://blogue.canada.ca/flux.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+        </li>
+				<li>
+					<a href="https://blogue.canada.ca/pages/inscrire.html">Abonnez-vous à notre liste d’envoi</a>
+				</li>
+      </ul>
+    </section>
+</div>
+</div>
+
+</div>
