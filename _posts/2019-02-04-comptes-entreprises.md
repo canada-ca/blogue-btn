@@ -2,7 +2,7 @@
 layout: post
 title:  "Collaboration pour faciliter l’inscription des entreprises canadiennes"
 pubdate: "4 février 2019"
-langpage: "https://blog.canada.ca/2018/03/04/business-registration.html"
+langpage: "https://blog.canada.ca/2019/02/04/business-registration.html"
 date:   2019-02-04
 published: true
 draft: true
