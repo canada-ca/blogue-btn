@@ -85,7 +85,7 @@ Tout au long de ce projet, il est devenu évident que les petits changements fon
 * Comment le contribuable poserait-il cette question?
 * Cette information répond-elle aux besoins des contribuables dans l’exécution de leurs tâches?
 
-Au bout du compte, il faut toujours se demander comment nous pouvons nous assurer de respecter les normes les plus élevées possible pour la population canadienne.
+Au bout du compte, il faut toujours se demander comment nous pouvons nous assurer de respecter les normes les plus élevées possible pour les gens que nous servons.
 
 
 ## Leçons retenues ##
