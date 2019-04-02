@@ -34,7 +34,17 @@ La mise à jour de la conception était axée sur le modèle standard de Canada.
 
 ## Une conception fondée sur des données ##
 
-Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements. L’équipe de conception principale comprenait des concepteurs talentueux de l’<abbr title="Agence du revenu du Canada">ARC</abbr>, d’<abbr title="Affaires mondiales Canada">AMC</abbr>, d’<abbr title="Innovation, Sciences et Développement économique Canada">ISDE</abbr>, et de <abbr title="Services partagés Canada">SPC</abbr>, et la recherche et les tests étaient dirigés par le personnel du <abbr title="Bureau de la transformation numérique">BTN</abbr>. Nous avons fréquemment consulté les principaux intervenants tout au long du projet. En novembre 2018, nous avons consulté toute la communauté Web du <abbr title="gouvernement du Canada">GC</abbr> au sujet des prototypes de conception finale.
+Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements.
+
+
+Le personnel du BTN a dirigé la recherche et les tests, pendant que l’équipe de conception principale comprenait des concepteurs talentueux de
+
+* Agence du revenu du Canada
+* Affaires Mondiales Canada
+* Innovation, Sciences et Développement économique Canada
+* Services partagés Canada
+
+Nous avons fréquemment consulté les principaux intervenants tout au long du projet. En novembre 2018, nous avons consulté toute la communauté Web du <abbr title="gouvernement du Canada">GC</abbr> au sujet des prototypes de conception finale.
 
 Nous avons procédé à des tests et à des évaluations poussés de multiples itérations de la conception mise à jour :
 
