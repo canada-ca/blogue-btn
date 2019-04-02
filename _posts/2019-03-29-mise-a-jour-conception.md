@@ -37,7 +37,7 @@ La mise à jour de la conception était axée sur le modèle standard de Canada.
 Le <abbr title="Bureau de la transformation numérique">BTN</abbr> a interviewé 10 équipes de divers établissements pour comprendre les défis qu’elles doivent relever dans le cadre de conception de Canada.ca. Nous avons également dirigé des ateliers de conception auxquels ont participé des intervenants de 9 établissements.
 
 
-Le personnel du BTN a dirigé la recherche et les tests, pendant que l’équipe de conception principale comprenait des concepteurs talentueux de
+Le personnel du BTN a dirigé la recherche et les tests, pendant que l’équipe de conception principale comprenait des concepteurs talentueux de :
 
 * Agence du revenu du Canada
 * Affaires Mondiales Canada
