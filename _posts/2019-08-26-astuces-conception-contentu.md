@@ -19,7 +19,6 @@ figcaption {
   padding-bottom: 10px;
   padding-top: 5px;
 }
-
 .nobreak {
   white-space: nowrap !important;
 }
