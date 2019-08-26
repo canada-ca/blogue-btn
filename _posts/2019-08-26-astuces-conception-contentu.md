@@ -142,5 +142,5 @@ Les projets d’optimisation ont pour but de connecter l’expérience vécue de
 Dites-nous ce que vous en pensez. Communiquez avec nous par courriel à <span class="nobreak">[dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca)</span>, ou publiez un gazouillis avec le mot-clic #Canadapointca.
 
 ## Pour en apprendre davantage
-* [Résumé de recherche : Optimisation des prêts et des bourses aux étudiants](https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html)
+* [Résumé de recherche : Prêts étudiants](https://blogue.canada.ca/resumes-recherche/prets-etudiants-resume-recherche.html)
 * [Résumé de recherche : Prestations de maternité et prestations parentales de l’assurance-emploi](https://blogue.canada.ca/resumes-recherche/maternite-parentales-resume-recherche.html)
