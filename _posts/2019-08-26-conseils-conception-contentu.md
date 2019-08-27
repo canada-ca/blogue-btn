@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Six astuces sur la conception du contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
+title:  "Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
 pubdate: "Le 26 août 2019"
 langpage: "https://blog.canada.ca/2019/08/26/content-design-tips.html"
 date:   2019-08-26
 published: true
 draft: true
 lang: fr
-alt: "Six astuces sur la conception du contenu."
+alt: "Six conseils en matière de conception de contenu."
 description: "En automne 2018, le Bureau de la transformation numérique a collaboré avec des équipes d’Emploi et Développement social Canada sur deux projets d’optimisation : un projet sur les prêts et bourses pour étudiants et un projet sur les prestations de maternité et les prestations parentales de l’assurance-emploi."
 ---
 
