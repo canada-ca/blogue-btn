@@ -115,7 +115,8 @@ La simplification du contenu ne se limite pas aux mots d’une page. Lorsque les
 <img class="img-responsive border" alt="La page Web des prestations avant et après."
  src="/images/prestations-mat-ae/chiffres.jpg"/>
 
-<figcaption>Clear, simple statements of facts are far more successful</figcaption>
+<figcaption>Des énoncés de faits clairs et simples ont beaucoup plus de succès
+</figcaption>
 </figure>
 
 <details class="col-md-8">
