@@ -4,6 +4,10 @@ figcaption {
   max-width: 80ch;
 }
 
+h3 {
+  max-width: 55ch;
+}
+
 abbr {
   text-decoration: none !important;
 }
