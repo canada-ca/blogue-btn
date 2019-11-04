@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Six conseils en matière de conception de contenu tirées de nos projets d’optimisation sur les prêts étudiants et les prestations parentales"
-pubdate: "Le 26 août 2019"
+pubdate: "26 août 2019"
 langpage: "https://blog.canada.ca/2019/08/26/content-design-tips.html"
 date:   2019-08-26
 published: true
