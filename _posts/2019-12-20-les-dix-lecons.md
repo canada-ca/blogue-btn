@@ -119,7 +119,7 @@ Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous
 
 <figure>
 <img class="img-responsive border" alt="Une photo de l'équipe du Bureau de la transformation numérique"
- src="/images/DOT_team_2019.jpg" width="700">
+ src="/images/equipe-BTN-2019.jpg" width="700">
 </figure>
 
 ## Ce que vous venez de lire vous inspire? Partagez ce billet avec votre équipe!
