@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site canada.ca"
+title:  "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca"
 pubdate: "20 decembre 2019"
 langpage: "https://blog.canada.ca/2019/12/20/top-ten-lessons.html"
 date:   2019-12-20
 published: true
 draft: true
 lang: fr
-alt: "les dix lecons"
-description: "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site canada.ca"
+alt: "Une photo de l'équipe du Bureau de la transformation numérique."
+description: "Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca."
 ---
 
 <style>
@@ -118,7 +118,7 @@ Au nom de toute l’équipe du Bureau de la transformation numérique, nous vous
 
 
 <figure>
-<img class="img-responsive border" alt="Une photo de l'équipe du Bureau de la transformation numérique"
+<img class="img-responsive border" alt="Une photo de l'équipe du Bureau de la transformation numérique."
  src="/images/equipe-BTN-2019.jpg" width="700">
 </figure>
 
