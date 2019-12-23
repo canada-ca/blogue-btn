@@ -98,7 +98,7 @@ En fait, ce qui compte pour réussir l’optimisation des tâches, c’est de me
 
 ## 9. L’importance des mots
 
-<blockquote><p style="color: #1E5D71 !important;">«&nbsp;Les mots inscrits sur la page ont une immense portée. Il faut donc veiller à utiliser les mots que les gens utilisent vraiment. Par exemple, dans le cadre d’un de nos projets, nous avons &nbsp;student financial assistance&nbsp;», soit le terme qui figurait partout sur le site. Nous avons donc utilisé « student aid » dans notre version préliminaire.
+<blockquote><p style="color: #1E5D71 !important;">«&nbsp;Les mots inscrits sur la page ont une immense portée. Il faut donc veiller à utiliser les mots que les gens utilisent vraiment. Par exemple, dans le cadre d’un de nos projets, nous avons constaté que, en anglais, les gens utilisent «&nbsp;student aid&nbsp;», et non pas «&nbsp;student financial assistance&nbsp;», soit le terme qui figurait partout sur le site Nous avons donc utilisé «&nbsp;student aid&nbsp;» dans notre version préliminaire.
 Pour trouver une réponse sur un site Web, on procède tous de la même manière : on balaye la page du regard en quête d’un indice pour savoir où aller ensuite. Autrement dit, on cherche une piste de réponse. Il est donc important de rédiger les hyperliens à l’aide des bons mots-clés, de composer soigneusement les titres en utilisant des termes pertinents, de diviser les longs blocs de texte et de simplifier le langage. Cela aidera les gens à trouver rapidement l’information qu’ils cherchent.&nbsp;» </p>
 </blockquote>
 <p>- David Pepin</p>
