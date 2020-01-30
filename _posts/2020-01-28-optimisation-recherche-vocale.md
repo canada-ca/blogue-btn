@@ -21,8 +21,6 @@ Au cours de cette série, nous examinerons les raisons qui expliquent ce constat
 
 Commençons par la première étape essentielle : L’optimisation de votre contenu pour la recherche vocale.
 
-## L’optimisation de votre contenu pour la recherche vocale
-
 À vrai dire, la plupart des interactions vocales demeurent très simples : une question, une réponse.
 
 Avant de créer un dialogueur, commencez par optimiser votre contenu pour la recherche vocale :
