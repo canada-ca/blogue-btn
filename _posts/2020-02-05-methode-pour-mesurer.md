@@ -8,8 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "methode pour mesurer"
-description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs
-"
+description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs."
 ---
 En 2019, le Bureau de la transformation numérique a travaillé avec ses collègues de la Division des résultats du Secrétariat du Conseil du Trésor pour mettre en place un nouvel indicateur de rendement clé. Celui-ci évalue la capacité des citoyens d’accomplir des tâches aux exigences élevées sur le site Web du gouvernement du Canada. Trente-sept (37) ministères ont dû faire rapport sur le nouvel indicateur en 2019.
 
