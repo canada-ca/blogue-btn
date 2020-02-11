@@ -42,26 +42,24 @@ Cette méthode fonctionne mieux pour suivre les conversions sur plusieurs pages 
 
 Cette méthode n’est pas idéale pour les tâches liées à la recherche de réponses. Celles-ci aboutissent souvent à des options multiples, de sorte qu’il est difficile ou impossible de suivre le cheminement de l’utilisateur.
 
-Bon nombre des institutions qui ont utilisé cette méthode ont également signalé que les plateformes d’analyse désuètes et l’incapacité de suivre les utilisateurs dans les zones sécurisées d’un site Web compliquaient l’analyse.   
+Cette méthode comporte son lot de défis si les plateformes d’analyse ne sont pas assez robustes ou si vous ne pouvez pas suivre les utilisateurs dans les zones sécurisées d’un site Web.   
 
 ### Sondage en ligne
 
-Le sondage en ligne était la méthode privilégiée pour recueillir des données sur la réussite des tâches principales. Nous avons constaté qu’il donnait des résultats comparables d’une institution à l’autre. Pour les institutions qui s’initient à la gestion de tâches principales, la méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année.
+La méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année. En fait, le Bureau de la transformation numérique a élaboré un sondage que n’importe quelle institution pourrait utiliser pour colliger des données sur le taux du succès des tâches. Le sondage demande aux visiteurs ce qu’ils sont venus faire sur le site, et s’ils ont complété leur tâche avec succès.
 
-Le Bureau de la transformation numérique a élaboré un sondage que n’importe quelle institution pourrait utiliser. Les institutions n’avaient qu’à rédiger leurs scénarios de tâches et à accorder suffisamment de temps pour exécuter le sondage. Ce sondage était la seule méthode permettant d’écrire des réponses. Cette méthode a permis aux institutions de découvrir des tâches nouvelles ou sous-représentées.   
-
-Les résultats des sondages ont été compilés automatiquement dans des tableaux de bord. Cela a réduit davantage la charge de travail de l’institution pour la compilation et l’analyse des données.
+Les résultats des sondages peuvent être compilés automatiquement dans des tableaux de bord. Cela réduit davantage la charge de travail de l’institution pour la compilation et l’analyse des données.
 
 Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
 
-* choisir la tâche qu’ils sont venus accomplir (y compris la possibilité d’ajouter leur tâche si elle n’était pas indiquée)
+* choisir la tâche qu’ils sont venus accomplir dans une liste d'options (y compris la possibilité d’ajouter leur tâche si elle n’était pas indiquée)
 * confirmer s’ils ont été en mesure d’accomplir leur tâche
 * choisir la raison pour laquelle ils n’ont pas été en mesure d’accomplir leur tâche (y compris la possibilité d’ajouter des raisons) s’ils n’ont pas pu le faire
 
 Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
 
 * la normalisation des données
-* la compréhension des raisons qui amènent les utilisateurs visitent leurs pages
+* la compréhension des raisons qui amènent les utilisateurs à visiter certaines pages
 * cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
 
 ## Simplification de méthodes pour obtenir de meilleurs résultats
