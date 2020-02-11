@@ -10,7 +10,7 @@ lang: fr
 alt: "methode pour mesurer"
 description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs."
 ---
-En 2019, le Bureau de la transformation numérique a proposé 3 méthodes pour réaliser ce rapport:
+En 2019, le Bureau de la transformation numérique a proposé 3 méthodes pour mesurer le taux de succès des tâches en ligne:
 
 * le test d’utilisabilité
 * l’analyse d’entonnoirs de tâches
@@ -36,7 +36,7 @@ Cela dit, rien ne peut remplacer l’observation de personnes en chair et en os 
 
 ### Entonnoir de tâches
 
-Entonnoir de tâches ont utilisé des outils analytiques Web pour suivre les parcours des visiteurs de façon anonyme depuis le début d’une tâche jusqu’à sa réussite.
+Les entonnoirs de tâches utilisent des outils analytiques Web pour suivre les parcours des visiteurs de façon anonyme depuis le début d’une tâche jusqu’à sa réussite.
 
 Cette méthode fonctionne mieux pour suivre les conversions sur plusieurs pages où il y a une seule séquence d’étapes à suivre (comme passer à la caisse lors d’une transaction électronique). L’inconvénient est que les visiteurs abandonnent leur parcours pour des raisons qui n’ont rien à voir avec l’efficacité de l’expérience.
 
@@ -63,12 +63,14 @@ Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
 Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
 
 * la normalisation des données
-* la facilité, pour les institutions, de comprendre pourquoi les utilisateurs visitent leurs pages
+* la compréhension des raisons qui amènent les utilisateurs visitent leurs pages
 * cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
 
 ## Simplification de méthodes pour obtenir de meilleurs résultats
 
-Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les institutions. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
+Expérimenter avec différentes méthodes pour rendre compte des tâches principales a mis en lumière le fait que multiplier les méthodes peut miner l’uniformité des données.
+
+Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
 
 La méthode de sondage en ligne offre une méthode de collecte de données normalisée. Elle est facile à mettre en œuvre sur le plan technique et fournit des données claires sur les forces et les faiblesses des tâches principales.
 
@@ -77,7 +79,7 @@ Les commentaires que nous avons reçus des institutions utilisant cette méthode
 <blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier. Par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
 </p> </blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du sondage ont joué un rôle dans l’évolution du site Web. »
+<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du (sondage) ont joué un rôle dans l’évolution du site Web. »
 </p></blockquote>
 
 ## Nous voulons avoir votre opinion
