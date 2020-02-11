@@ -10,62 +10,21 @@ lang: fr
 alt: "methode pour mesurer"
 description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs."
 ---
-En 2019, le Bureau de la transformation numérique a travaillé avec ses collègues de la Division des résultats du Secrétariat du Conseil du Trésor pour mettre en place un nouvel indicateur de rendement clé. Celui-ci évalue la capacité des citoyens d’accomplir des tâches aux exigences élevées sur le site Web du gouvernement du Canada. Trente-sept (37) ministères ont dû faire rapport sur le nouvel indicateur en 2019.
-
-La mesure de l’accomplissement de tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
-
-En analysant les résultats au début de 2020, nous avons beaucoup appris sur les différentes méthodes de mesure de la réussite des tâches en ligne.
-
-## Contexte
-
-L’amélioration des tâches principales en ligne s’harmonise avec les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) afin d’outiller le personnel à offrir de meilleurs services.
-
-<blockquote><p style="color: #1E5D71 !important;">« Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs. »»</p>
-
-<footer><a href="https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html">Gerry McGovern, février 2018</a></footer></blockquote>
-
-Dans un esprit d’expérimentation et de respect des ressources disponibles, le Bureau de la transformation numérique a proposé 3 méthodes pour réaliser ce rapport:
+En 2019, le Bureau de la transformation numérique a proposé 3 méthodes pour réaliser ce rapport:
 
 * le test d’utilisabilité
 * l’analyse d’entonnoirs de tâches
 * le sondage sur l’accomplissement de tâches
 
-## Mode de mesure des tâches dans l’ensemble des institutions déclarantes
+La mesure de l’accomplissement de tâches en ligne nous aide à comprendre comment les améliorations apportées à la conception influent sur la réussite des tâches. Elle aide également les institutions à adopter une approche axée sur les tâches principales pour la gestion de l’information et des services en ligne.
 
-Nous avons compilé les données que chaque institution a envoyées. Nous avons associé à chaque tâche la méthode de collecte, le nombre de participants, la période et le taux de réussite. Voici ce que nous avons constaté:
+<blockquote><p style="color: #1E5D71 !important;">« Changez les paramètres clés et vous changerez l’organisation. Changez l’organisation et vous livrerez des services numériques grandement supérieurs. »»</p>
 
-<b>Méthode de déclaration</b>
+<footer><a href="https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html">Gerry McGovern, février 2018</a></footer></blockquote>
 
-* 9 sondages
-* 8 tests d’utilisabilité
-* 7 analyses d’entonnoirs de tâches
-* 2 autres méthodes
+## Les avantages et les inconvénients de chaque méthode
 
-<b>Types de tâches déclarées</b>
-* 283 tâches déclarées
-* Plus de 200 tâches liées à la recherche de réponses à des questions
-* 23 tâches étaient liées à la présentation d’une demande, au renouvellement, au classement ou à l’enregistrement
-* 15 tâches étaient liées à la façon de nous contacter
-* 15 tâches étaient liées à la recherche d’emplois et de carrières
-* 18 tâches étaient liées au téléchargement, à l’ouverture de session, à l’achat ou au calcul
-
-#### Réussite des tâches
-
-Nous avons considéré le taux de réussite pour toutes les tâches qui étaient testées avec plus de 20 participants. 101 tâches répondaient à ce critère.
-* Le taux de réussite moyen de ces 101 tâches était de 64 %
-* 32 tâches ont obtenu une cote de réussite élevée de plus de 80 %
-
-Neuf (9) institutions ont connu un franc succès en ce qui concerne une tâche. Il s’agissait surtout de tâches liées à la recherche de réponses. Les sujets abordés comprenaient les temps d’attente à la frontière, les possibilités de carrière et les conseils de santé aux voyageurs.
-
-Les tâches pour lesquelles le taux de réussite était moins élevé comprenaient souvent la présentation d’une demande ou l’inscription à quelque chose. Il est difficile de déterminer la cause exacte des taux de réussite plus faibles. Les causes possibles comprennent notamment:
-
-* le type de méthode de déclaration (les entonnoirs de tâches étaient souvent utilisés)
-* la nature de la tâche étant plus complexe avec les exigences en ligne et hors ligne combinées
-* des problèmes liés à l’expérience réelle en ligne
-
-## Les avantages et les inconvénients de chaque méthode de déclaration
-
-Voici ce que nous avons appris au sujet de chaque méthode de production de rapport.
+Voici ce que nous avons appris au sujet de chaque méthode.
 
 ### Test d’utilisabilité
 
@@ -77,7 +36,7 @@ Cela dit, rien ne peut remplacer l’observation de personnes en chair et en os 
 
 ### Entonnoir de tâches
 
-Cette option a permis aux institutions de faire rapport sur une seule tâche. Ils ont utilisé des outils analytiques Web pour suivre les parcours des visiteurs de façon anonyme depuis le début d’une tâche jusqu’à sa réussite.
+Entonnoir de tâches ont utilisé des outils analytiques Web pour suivre les parcours des visiteurs de façon anonyme depuis le début d’une tâche jusqu’à sa réussite.
 
 Cette méthode fonctionne mieux pour suivre les conversions sur plusieurs pages où il y a une seule séquence d’étapes à suivre (comme passer à la caisse lors d’une transaction électronique). L’inconvénient est que les visiteurs abandonnent leur parcours pour des raisons qui n’ont rien à voir avec l’efficacité de l’expérience.
 
@@ -107,27 +66,19 @@ Nous avons constaté que cette méthode favorisait le meilleur équilibre entre 
 * la facilité, pour les institutions, de comprendre pourquoi les utilisateurs visitent leurs pages
 * cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
 
-La première série de rapports a révélé des défis en termes de facilité d’exécution et de qualité des données. Nous tenons compte de ces constatations dans la planification de l’exercice 2020.
-
-## Simplification de nos méthodes pour obtenir de meilleurs résultats
+## Simplification de méthodes pour obtenir de meilleurs résultats
 
 Afin d’éliminer les obstacles à la collecte de données, nous avons offert différentes méthodes pour rendre compte des tâches principales. La réalité est que cela a eu une incidence sur notre capacité de voir les tendances entre les institutions. L’utilisation de différentes méthodes a miné l’uniformité des données. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
-
-## Prochaines étapes : une méthode unique de produire votre rapport pour 2020
-
-Il est clair qu’une méthode  unique de produire votre rapport sur les tâches principales nous aiderait à avoir une vue d’ensemble de l’exécution des tâches en ligne dans l’ensemble du gouvernement du Canada.
 
 La méthode de sondage en ligne offre une méthode de collecte de données normalisée. Elle est facile à mettre en œuvre sur le plan technique et fournit des données claires sur les forces et les faiblesses des tâches principales.
 
 Les commentaires que nous avons reçus des institutions utilisant cette méthode étaient positifs. Cela dénote un changement de culture vers la gestion des tâches principales.
 
-<blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier, par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
+<blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier. Par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
 </p> </blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du Sondage sur l’expérience Web (SEW) ont joué un rôle dans l’évolution du site Web. »
+<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du sondage ont joué un rôle dans l’évolution du site Web. »
 </p></blockquote>
-
-Pour la prochaine demande de collecte de tâches en 2020, nous demanderons aux institutions d’utiliser un sondage en ligne.
 
 ## Nous voulons avoir votre opinion
 
