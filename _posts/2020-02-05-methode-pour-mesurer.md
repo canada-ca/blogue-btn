@@ -10,7 +10,7 @@ lang: fr
 alt: "methode pour mesurer"
 description: "Ce que nous avons appris sur les sondages de fin de visite, les tests d’utilisabilité et les analyses des entonnoirs."
 ---
-En 2019, le Bureau de la transformation numérique a proposé 3 méthodes pour mesurer le taux de succès des tâches en ligne:
+En 2019, le Bureau de la transformation numérique a piloté  3 méthodes pour mesurer la réussite des tâches en ligne:
 
 * le test d’utilisabilité
 * l’analyse d’entonnoirs de tâches
@@ -75,7 +75,7 @@ Les commentaires que nous avons reçus des institutions utilisant cette méthode
 <blockquote><p style="color: #1E5D71 !important;">« Le sondage nous permet d’établir l’ordre de priorité des sections du site Web qui devraient être optimisées en premier. Par exemple, notre attention/notre énergie devrait être consacrée aux tâches principales qui ne sont pas aussi efficaces que les autres. »
 </p> </blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du (sondage) ont joué un rôle dans l’évolution du site Web. »
+<blockquote><p style="color: #1E5D71 !important;">« Au fil du temps, les conclusions du sondage ont joué un rôle dans l’évolution du site Web. »
 </p></blockquote>
 
 ## Nous voulons avoir votre opinion
