@@ -42,15 +42,15 @@ Cette méthode fonctionne mieux pour suivre les conversions sur plusieurs pages 
 
 Cette méthode n’est pas idéale pour les tâches liées à la recherche de réponses. Celles-ci aboutissent souvent à des options multiples, de sorte qu’il est difficile ou impossible de suivre le cheminement de l’utilisateur.
 
-Cette méthode comporte son lot de défis si les plateformes d’analyse ne sont pas assez robustes ou si vous ne pouvez pas suivre les utilisateurs dans les zones sécurisées d’un site Web.   
+Cette méthode comporte son lot de défis si les plateformes d’analyse ne sont pas assez robustes ou si  vous ne pouvez pas suivre les utilisateurs dans les zones sécurisées d’un site Web.   
 
 ### Sondage en ligne
 
-La méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année. En fait, le Bureau de la transformation numérique a élaboré un sondage que n’importe quelle institution pourrait utiliser pour colliger des données sur le taux du succès des tâches. Le sondage demande aux visiteurs ce qu’ils sont venus faire sur le site, et s’ils ont complété leur tâche avec succès.
+La méthode du sondage est la plus facile à mettre en œuvre et à reproduire année après année. En fait, le Bureau de la transformation numérique a élaboré un sondage que n’importe quelle institution pourrait utiliser pour colliger des données sur la réussite des tâches. Le sondage demande aux visiteurs ce qu’ils sont venus faire sur le site, et s’ils ont complété leur tâche avec succès.
 
 Les résultats des sondages peuvent être compilés automatiquement dans des tableaux de bord. Cela réduit davantage la charge de travail de l’institution pour la compilation et l’analyse des données.
 
-Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
+Le sondage du Bureau de la transformation numérique incite les visiteurs de:
 
 * choisir la tâche qu’ils sont venus accomplir dans une liste d'options (y compris la possibilité d’ajouter leur tâche si elle n’était pas indiquée)
 * confirmer s’ils ont été en mesure d’accomplir leur tâche
@@ -59,14 +59,13 @@ Le sondage du Bureau de la transformation numérique demandait aux visiteurs de:
 Nous avons constaté que cette méthode favorisait le meilleur équilibre entre :
 
 * la normalisation des données
-* la compréhension des raisons qui amènent les utilisateurs à visiter certaines pages
+* comprendre pourquoi les  gens visitent certaines pages
 * cerner les parties de l’expérience en ligne qui causent des problèmes de prestation de services
+
 
 ## Simplification de méthodes pour obtenir de meilleurs résultats
 
-Expérimenter avec différentes méthodes pour rendre compte des tâches principales a mis en lumière le fait que multiplier les méthodes peut miner l’uniformité des données.
-
-Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
+Expérimenter avec différentes méthodes pour mesurer les  tâches principales a mis en lumière la façon dont différentes méthodes pouvaient créer des données incohérentes. Il est difficile de comparer les résultats d’un entonnoir de tâches à un test d’utilisabilité!
 
 La méthode de sondage en ligne offre une méthode de collecte de données normalisée. Elle est facile à mettre en œuvre sur le plan technique et fournit des données claires sur les forces et les faiblesses des tâches principales.
 
