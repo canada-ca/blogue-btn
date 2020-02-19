@@ -105,7 +105,7 @@ Ne tentez pas d’en mettre plein la vue en ignorant l’essentiel.
 
 Nous savons que le clavardage et la fonction vocale sont les technologies de l’avenir et que cet avenir est maintenant. En testant continuellement la convivialité, nous pouvons mieux comprendre comment fonctionne la nouvelle technologie et quelles sont les lacunes. Notre empathie s'accroît pour nos utilisateurs et nous veillons donc à élaborer les bons outils... de la bonne façon.
 
-L’équipe de conception de Canada.ca souhaite toujours améliorer à la fois Canada.ca et les directives que le système de conception du GC fournit aux ministères afin de tirer le meilleur parti des nouvelles technologies.
+L’équipe de conception de Canada.ca souhaite toujours améliorer à la fois Canada.ca et les directives que le système de conception du Gouvernement du Canada fournit aux ministères afin de tirer le meilleur parti des nouvelles technologies.
 
 Au fur et à mesure que nous évoluons et que nous expérimentons de nouvelles approches, nous devons toujours nous demander :
 * Est-ce <b>utile</b>? Le libre-service numérique s’améliore-t-il ainsi? Les Canadiens en profiteront-ils?
