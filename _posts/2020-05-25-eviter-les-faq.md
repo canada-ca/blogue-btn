@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Éviter les FAQ, à une exception près"
-pubdate: "25 Mai 2020"
+pubdate: "25 mai 2020"
 langpage: "https://blog.canada.ca/2020/05/25/avoiding-faqs.html"
 date:   2020-05-25
 published: true
@@ -10,12 +10,6 @@ lang: fr
 alt: "Éviter les FAQ, à une exception près"
 description: "Pourquoi les FAQ sont un choix de conception de contenu inefficace la plupart du temps, et quand elles peuvent réellement fonctionner."
 ---
-
-<style>
-.nobreak {
-    white-space: nowrap;
-  }
-</style>
 
 Oui, vous avez bien lu. L’une des questions les plus fréquemment posées au Bureau de la transformation numérique est de savoir si les foires aux questions (FAQ) sont une façon acceptable de présenter du contenu Web.
 
