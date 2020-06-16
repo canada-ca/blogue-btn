@@ -3,7 +3,7 @@ layout: post
 title:  "Conception axée sur l’accessibilité pendant la pandémie de la COVID-19"
 pubdate: "5 juin 2020"
 langpage: "https://blog.canada.ca/2020/06/05/designing-for-accessibility.html"
-date:   2020-06-05
+date:   "2020-06-05"
 published: true
 draft: true
 lang: fr
