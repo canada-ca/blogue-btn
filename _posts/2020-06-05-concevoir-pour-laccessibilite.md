@@ -11,7 +11,6 @@ alt: "Conception axée sur l’accessibilité pendant la pandémie de la COVID-1
 description: "Il est essentiel de concevoir des services gouvernementaux numériques qui tiennent compte de l’accessibilité pour assurer à chacun la possibilité d’obtenir rapidement et facilement les services dont il a besoin."
 ---
 
-
 La pandémie de la COVID-19 a forcé le gouvernement à agir beaucoup plus rapidement que d’habitude. Pour soutenir les gens durant la pandémie, de nouveaux avantages ont été conçus et mis au point en un temps record. 
 
 Dans l’ensemble du gouvernement, il est apparu clairement qu’il faut travailler de concert pour permettre à tous ceux qui ont besoin de ces nouveaux programmes de les trouver, de les comprendre et de s’en prévaloir. Cela concerne aussi les personnes qui ont un handicap physique ou cognitif.  
