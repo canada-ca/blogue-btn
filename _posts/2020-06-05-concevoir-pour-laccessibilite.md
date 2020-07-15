@@ -270,7 +270,7 @@ Il est essentiel de concevoir des services gouvernementaux numériques qui tienn
 *	[Aperçu des Règles d’accessibilité pour les contenus Web (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) (en anglais seulement)
 *	[Comprendre le critère de réussite du WCAG 2.4.4 : Objectif du lien](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html) (en anglais seulement)
 
-## Communiquez avec le Bureau de la transformation numérique du SCT :
+## Communiquez avec le Bureau de la transformation numérique du SCT 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
