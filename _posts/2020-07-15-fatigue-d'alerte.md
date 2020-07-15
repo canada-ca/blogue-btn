@@ -78,7 +78,7 @@ Finalement, il faut avoir un plan. Plus vous gérez bien vos alertes, plus elles
 * [Alertes et perturbations de service sur Canada.ca](https://conception.canada.ca/crise/alertes.html)
 * [Alertes contextuelles – Configuration de conception de Canada.ca](https://conception.canada.ca/configurations-conception-communes/alertes-contextuelles.html)
 
-## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor :
+## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter :  #Canadapointca (français) / #Canadadotca (anglais)
 * Slack : [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
