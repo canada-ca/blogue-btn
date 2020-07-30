@@ -144,41 +144,7 @@ Nous avons réservé l’utilisation de tests avec modérateur pour les cas où 
 
 Le modérateur peut encourager les participants à poursuivre une tâche qu’ils auraient autrement abandonnée dans le cadre d’un test sans modérateur.
 
-Dans cette vidéo (disponible en anglais) sur un test avec modérateur, un participant est rassuré que le choix d’une option ne révèle pas de renseignements bancaires personnels.
 
-{::nomarkdown}
-
-<figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/design-research/moderated-poster.jpg" title="Test modéré : interaction avec un participant">
-		<source type="video/mp4" src="/images/design-research/design-research-moderated-1080x600-fr.mp4" />
-    <track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="fr" label="French" />
-	</video>
-
-<figcaption>
-<details id="inline-captions-2">
-				<summary>Transcription : Test modéré : interaction avec un participant</summary>
-
-<p class="wet-boew-vd"><b>Titre :</b> Test modéré : interaction avec un participant</p>
-<p class="wet-boew-vd">Une capture d'écran d'une page de Canada.ca avec des cases à cocher qui peuvent être sélectionnées. </p>
-
-<p>
-<span class="wb-tmtxt" data-begin="04.00s" dur="03.98s"></p>
-<p>
-<b>Participant 1:</b> « Ok les paiements par dépôt direct prennent 3 jours ouvrables,</span>
-<span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">un chèque prend environ 10 jours ouvrables. Vos renseignements sur le dépôt direct</span>
-<span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">sont-ils à jour auprès de l'ARC? Si je clique sur ces cases, cela </span>
-<span class="wb-tmtxt" data-begin="16.00s" dur="03.98s">n'affectera pas mes affaires, n'est-ce pas? »
-</p>
-
-<p><b>Modérateur :</b>« Exactement, je ne vous laisserai pas faire</span>
-<span class="wb-tmtxt" data-begin="20.00s" dur="12.23s">quoi que ce soit qui ait de réelles conséquences. »</p> <p> <b>Participant 1 :</b> « Parfait. Très bien. »
-</span>
-</p>
-
-</details>
-</figcaption>
-
-{:/nomarkdown}
 
 ## Leçons essentielles apprises
 
