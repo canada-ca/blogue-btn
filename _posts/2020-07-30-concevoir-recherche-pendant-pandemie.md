@@ -151,11 +151,11 @@ Dans cette vidéo sur un test avec modérateur, un participant est rassuré que 
 <figure class="wb-mltmd wb-init video cc_on">
 	<video poster="/images/assistive-tech/moderated-poster.jpg" title="Test modéré : interaction avec un participant">
 		<source type="video/mp4" src="/images/design-research/design-research-moderated-1080x600-fr.mp4" />
-    <track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
+    <track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
 
 <figcaption>
-<details id="inline-captions">
+<details id="inline-captions-2">
 				<summary>Transcription : Test modéré : interaction avec un participant</summary>
 
 <p class="wet-boew-vd"><b>Titre :</b> Test modéré : interaction avec un participant</p>
