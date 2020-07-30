@@ -161,7 +161,7 @@ Dans cette vidéo (disponible en anglais) sur un test avec modérateur, un parti
 <p class="wet-boew-vd"><b>Titre :</b> Test modéré : interaction avec un participant</p>
 <p class="wet-boew-vd">Une capture d'écran d'une page de Canada.ca avec des cases à cocher qui peuvent être sélectionnées. </p>
 
-<p class="wet-boew-vd">
+<p>
 <span class="wb-tmtxt" data-begin="04.00s" dur="03.98s"></p>
 <p>
 <b>Participant 1:</b> « Ok les paiements par dépôt direct prennent 3 jours ouvrables,</span>
