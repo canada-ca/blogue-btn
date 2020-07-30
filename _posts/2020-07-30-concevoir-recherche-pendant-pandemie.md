@@ -31,13 +31,13 @@ Dans les semaines qui ont suivi, nous avons mené aux côtés d’autres minist�
 
 ## 3. À l’heure de la COVID : Adaptation des échéanciers en fonction des jours plutôt que des semaines
 
-Des recherches concentrées et rapides ont aidé à formuler des recommandations quotidiennes. Lorsqu’il était possible de le faire, nous avons combiné des [recherches antérieures de projets d’optimisation du BTN](https://blogue.canada.ca/pages/apercu-projet.html) à de nouvelles recherches. Cela nous a permis de présenter des recommandations fondées sur des données probantes aux équipes Web et à la haute direction. 
+Des recherches concentrées et rapides ont aidé à formuler des recommandations quotidiennes. Lorsqu’il était possible de le faire, nous avons combiné des [recherches antérieures de projets d’optimisation du BTN](https://blogue.canada.ca/pages/apercu-projet.html) à de nouvelles recherches. Cela nous a permis de présenter des recommandations fondées sur des données probantes aux équipes Web et à la haute direction.
 
 Nous avons utilisé des données faciles d’accès comme les renseignements Web analytiques, la surveillance des médias sociaux et les questions des centres d’appels pour déterminer les domaines sur lesquels nous devions concentrer nos recherches. Nous avons souvent intégré les questions des médias sociaux ou des centres d’appels directement dans des scénarios de tâches.
 
 ## 4. Tests sans modérateur : Recommandations rapides en 48 heures
 
-L’accès existant de l’équipe aux services de test en ligne nous a permis de mener des tests rapidement et de formuler des recommandations dans les 48 heures qui ont suivi. Des tests d’utilisabilité sans modérateur ont été effectués tous les deux ou trois jours auprès de six à huit Canadiennes ou Canadiens. Cela nous a permis de cerner les grands enjeux et d’analyser les enregistrements vidéo en quelques heures. 
+L’accès existant de l’équipe aux services de test en ligne nous a permis de mener des tests rapidement et de formuler des recommandations dans les 48 heures qui ont suivi. Des tests d’utilisabilité sans modérateur ont été effectués tous les deux ou trois jours auprès de six à huit Canadiennes ou Canadiens. Cela nous a permis de cerner les grands enjeux et d’analyser les enregistrements vidéo en quelques heures.
 
 Nous avons établi un rythme pour nos activités. Nous avons présenté des prototypes sous forme de solutions prêtes à l’emploi. Cela a permis de rendre la mise en œuvre aussi aisée que possible.
 
@@ -76,7 +76,7 @@ Dans cette vidéo (disponible en anglais) de test d’utilisabilité sans modér
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/assistive-tech/unmoderated-poster.jpg" title="Test non modéré : le participant interprète la tâche">
+	<video poster="/images/design-research/unmoderated-poster.jpg" title="Test non modéré : le participant interprète la tâche">
 		<source type="video/mp4" src="/images/design-research/design-research-unmoderated-1080x600-fr.mp4" />
     <track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
@@ -149,7 +149,7 @@ Dans cette vidéo (disponible en anglais) sur un test avec modérateur, un parti
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/assistive-tech/moderated-poster.jpg" title="Test modéré : interaction avec un participant">
+	<video poster="/images/design-research/moderated-poster.jpg" title="Test modéré : interaction avec un participant">
 		<source type="video/mp4" src="/images/design-research/design-research-moderated-1080x600-fr.mp4" />
     <track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
