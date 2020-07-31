@@ -42,32 +42,25 @@ L’accès existant de l’équipe aux services de test en ligne nous a permis d
 Nous avons établi un rythme pour nos activités. Nous avons présenté des prototypes sous forme de solutions prêtes à l’emploi. Cela a permis de rendre la mise en œuvre aussi aisée que possible.
 
 ### Calendrier de test de 48 heures
-<section>
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-md-8">
-<div class="well well-sm">
-
-<strong>Jour 1</strong>
-<ol>
-<li>Établir les priorités le matin</li>
-<li>Créer le prototype pendant la journée</li>
-<li>Développer des scénarios et concevoir le test en après‑midi</li>
-<li>Mener le test pendant la nuit </li>
-</ol>
-
-<strong>Jour 2</strong>
-<ol>
-<li> Analyser les vidéos et compiler les recommandations le matin </li>
-<li>  Livrer ou communiquer les résultats en après‑midi</li>
-</ol>
-
-<p>Répéter et refaire le test</p>
-
+    <div class="well well-sm">
+      <strong>Jour 1</strong>
+      <ol>
+        <li>Établir les priorités le matin</li>
+        <li>Créer le prototype pendant la journée</li>
+        <li>Développer des scénarios et concevoir le test en après‑midi</li>
+        <li>Mener le test pendant la nuit </li>
+      </ol>
+      <strong>Jour 2</strong>
+      <ol>
+        <li> Analyser les vidéos et compiler les recommandations le matin </li>
+        <li>  Livrer ou communiquer les résultats en après‑midi</li>
+      </ol>
+      <p>Répéter et refaire le test</p>
+    </div>
+  </div>
 </div>
-</div>
-</div>
-</section>
-
 
 Les tests d’utilisabilité sans modérateur nous ont permis de nous reposer pendant qu’ils étaient exécutés durant la nuit. Il s’agissait du moyen le plus rapide de tester des prototypes ou du contenu en ligne, suffisamment souple pour recruter des auditoires spécialisés. Nous avons également constaté que si vous passez un peu de temps à tester vos scénarios de tâches sur vos amis ou votre famille d’abord, vous pourriez vous rendre compte que les gens interprètent la tâche de façon inattendue. Même lorsqu’une tâche est interprétée différemment, vous pouvez tout de même en apprendre beaucoup sur le modèle mental du participant.
 
@@ -76,67 +69,58 @@ Dans cette vidéo (disponible en anglais) de test d’utilisabilité sans modér
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/design-research/unmoderated-poster.jpg" title="Test non modéré : le participant interprète la tâche">
-		<source type="video/mp4" src="/images/design-research/design-research-unmoderated-1080x600-fr.mp4" />
+	<video poster="../../../images/design-research/unmoderated-poster.jpg" title="Test non modéré&nbsp;: le participant interprète la tâche">
+		<source type="video/mp4" src="../../../images/design-research/design-research-unmoderated-1080x600-fr.mp4" />
     <track src="#inline-captions" kind="captions" data-type="text/html" srclang="fr" label="French" />
 	</video>
-
-<figcaption>
-<details id="inline-captions">
-				<summary>Transcription : Test non modéré : le participant interprète la tâche</summary>
-
-<p class="wet-boew-vd"><b>Titre :</b> Test non modéré : le participant interprète la tâche</p>
-<p class="wet-boew-vd">Une capture d'écran de la page d'aide financière de Canada.ca avec une liste de liens. </p>
-
-  <p>
-<span class="wb-tmtxt" data-begin="04.00s" dur="03.98s">
-    <b>Participant 1 :</b> « Votre garderie à domicile, je pense</span>
-
-<span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">qu'elle serait considérée comme une entreprise avec certitude.</span>
-</p>
-
-<p>
-<span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">Euh, je vais aller de l'avant et cliquer sur « Pour les entreprises »</span>
-</p>
-
-
-</details>
-</figcaption>
-
+  <figcaption>
+    <details id="inline-captions">
+			<summary>Transcription&nbsp;: Test non modéré&nbsp;: le participant interprète la tâche</summary>
+      <p class="wet-boew-vd"><b>Titre&nbsp;:</b> Test non modéré&nbsp;: le participant interprète la tâche</p>
+      <p class="wet-boew-vd">Une capture d'écran de la page d'aide financière de Canada.ca avec une liste de liens. </p>
+      <p>
+        <span class="wb-tmtxt" data-begin="04.00s" data-dur="03.98s"><b>Participant 1&nbsp;:</b> « Votre garderie à domicile, je pense</span>
+        <span class="wb-tmtxt" data-begin="08.00s" data-dur="03.98s">qu'elle serait considérée comme une entreprise avec certitude.</span>
+      </p>
+      <p>
+        <span class="wb-tmtxt" data-begin="12.00s" data-dur="03.98s">Euh, je vais aller de l'avant et cliquer sur « Pour les entreprises »</span>
+      </p>
+    </details>
+  </figcaption>
+</figure>
 {:/nomarkdown}
 
 À mesure que la situation s’est stabilisée, les activités de recherche ont pris de l’ampleur et se sont alignées sur les annonces à venir. Les projets de plus grande envergure, comme la Prestation canadienne d’urgence (PCU), ont fait l’objet de nombreuses séries de tests et de prototypage.
 
 <section>
-<div class="row">
-  <div class="col-xs-12 col-sm-6 col-md-8">
-
-<h3>Itérations à la page sur la Prestation canadienne d’urgence</h3>
-            <dl class="dl-horizontal">
-                <dt>27 mars</dt>
-                <dd>Premier essai du prototype de la page sur la PCU avec cases à cocher pour l’admissibilité</dd>
-                <dt>30 mars</dt>
-                <dd> L’objet de la page a été modifié pour devenir un outil de triage permettant de séparer les demandes entre l’ARC et EDSC</dd>
-                <dt>31 mars et 1er avril</dt>
-                <dd>Reprise des tests de la page de triage</dd>
-                <dt>6 avril</dt>
-                <dd>Mise en service de la page sur la PCU</dd>
-                      <dt>6 et 8 avril</dt>
-                      <dd>Reprise des tests sur le contenu en ligne</dd>
-                            <dt>9 avril</dt>
-                            <dd> Test du prototype multipages de l’ARC avec cases à cocher</dd>
-                                  <dt>Du 16 au 24 avril</dt>
-                                  <dd>Reprise des tests sur le prototype de l’ARC</dd>
-                                        <dt>2 mai</dt>
-                                        <dd>Mise en service de la conception multipages de l’ARC</dd>
-                                              <dt>22 et 25 mai</dt>
-                                              <dd>Test du prototype d’EDSC avec le contenu révisé au sujet de la PCU</dd>
-                                                    <dt>3 juin</dt>
-                                                    <dd>Mise en service de la page révisée d’EDSC</dd>
-            </dl>
-              </div>
-              </div>
-        </section>
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-8">
+      <h3>Itérations à la page sur la Prestation canadienne d’urgence</h3>
+      <dl class="dl-horizontal">
+        <dt>27 mars</dt>
+        <dd>Premier essai du prototype de la page sur la PCU avec cases à cocher pour l’admissibilité</dd>
+        <dt>30 mars</dt>
+        <dd> L’objet de la page a été modifié pour devenir un outil de triage permettant de séparer les demandes entre l’ARC et EDSC</dd>
+        <dt>31 mars et 1er avril</dt>
+        <dd>Reprise des tests de la page de triage</dd>
+        <dt>6 avril</dt>
+        <dd>Mise en service de la page sur la PCU</dd>
+        <dt>6 et 8 avril</dt>
+        <dd>Reprise des tests sur le contenu en ligne</dd>
+        <dt>9 avril</dt>
+        <dd> Test du prototype multipages de l’ARC avec cases à cocher</dd>
+        <dt>Du 16 au 24 avril</dt>
+        <dd>Reprise des tests sur le prototype de l’ARC</dd>
+        <dt>2 mai</dt>
+        <dd>Mise en service de la conception multipages de l’ARC</dd>
+        <dt>22 et 25 mai</dt>
+        <dd>Test du prototype d’EDSC avec le contenu révisé au sujet de la PCU</dd>
+        <dt>3 juin</dt>
+        <dd>Mise en service de la page révisée d’EDSC</dd>
+      </dl>
+    </div>
+  </div>
+</section>
 
 ## 5. Utilisation stratégique de tests avec modérateur
 
@@ -144,7 +128,39 @@ Nous avons réservé l’utilisation de tests avec modérateur pour les cas où 
 
 Le modérateur peut encourager les participants à poursuivre une tâche qu’ils auraient autrement abandonnée dans le cadre d’un test sans modérateur.
 
+Dans cette vidéo (disponible en anglais) sur un test avec modérateur, un participant est rassuré que le choix d’une option ne révèle pas de renseignements bancaires personnels.
 
+{::nomarkdown}
+
+<figure class="wb-mltmd wb-init video cc_on">
+  <video poster="../../../images/design-research/moderated-poster.jpg" title="Test modéré&nbsp;: interaction avec un participant">
+    <source type="video/mp4" src="../../../images/design-research/design-research-moderated-1080x600-fr.mp4" />
+    <track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="fr" label="French" />
+  </video>
+  <figcaption>
+    <details id="inline-captions-2">
+      <summary>Transcription&nbsp;: Test modéré&nbsp;: interaction avec un participant</summary>
+      <p class="wet-boew-vd"><b>Titre&nbsp;:</b> Test modéré&nbsp;: interaction avec un participant</p>
+      <p class="wet-boew-vd">Une capture d'écran d'une page de Canada.ca avec des cases à cocher qui peuvent être sélectionnées.</p>
+      <p>
+        <span class="wb-tmtxt" data-begin="04.00s" data-dur="03.98s"><b>Participant 1:</b> « Ok les paiements par dépôt direct prennent 3 jours ouvrables,</span>
+        <span class="wb-tmtxt" data-begin="08.00s" data-dur="03.98s">un chèque prend environ 10 jours ouvrables. Vos renseignements sur le dépôt direct</span>
+        <span class="wb-tmtxt" data-begin="12.00s" data-dur="03.98s">sont-ils à jour auprès de l'ARC? Si je clique sur ces cases, cela </span>
+        <span class="wb-tmtxt" data-begin="16.00s" data-dur="03.98s">
+          n'affectera pas mes affaires, n'est-ce pas? »
+          <br>
+          <b>Modérateur&nbsp;:</b>« Exactement, je ne vous laisserai pas faire
+        </span>
+        <span class="wb-tmtxt" data-begin="20.00s" data-dur="12.23s">
+          quoi que ce soit qui ait de réelles conséquences. »
+          <br>
+          <b>Participant 1&nbsp;:</b> « Parfait. Très bien. »
+        </span>
+      </p>
+    </details>
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 ## Leçons essentielles apprises
 
