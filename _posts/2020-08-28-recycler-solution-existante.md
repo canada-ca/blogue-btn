@@ -11,9 +11,9 @@ alt: "Recycler une solution existante pour obtenir une mise à jour en temps ré
 description: "Dans le monde numérique, il n’est pas toujours nécessaire de réinventer la roue. Nous trouvons des façons de réduire la charge de travail et les délais de livraison en réutilisant des solutions qui, nous le savons, fonctionnent. Ces solutions sont le fruit de collaborations sans précédent entre de nombreuses équipes."
 ---
 
-Par : Kelly Galbraith
-Agente de communication, Direction du 
-service numérique, Service Canada
+Par : Kelly Galbraith <br>
+Agente de communication, Direction du <br>
+service numérique, Service Canada <br>
 
 Dans le monde numérique, il n’est pas toujours nécessaire de réinventer la roue. Nous trouvons des façons de réduire la charge de travail et les délais de livraison en réutilisant des solutions qui, nous le savons, fonctionnent. Ces solutions sont le fruit de collaborations sans précédent entre de nombreuses équipes.
 
