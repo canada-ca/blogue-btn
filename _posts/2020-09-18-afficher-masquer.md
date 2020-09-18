@@ -62,7 +62,7 @@ Il peut également s’agir d'un contenu qui ne s'applique qu’à une minorité
 
 <br><figure>
 <img class="img-responsive border" alt=" Le contenu pour faire une autre demnade de la PCU comprend le modèle afficher/masquer pour Si vous recommencez à travailler. La deuxième image montre le modèle élargi pour afficher le contenu concernant les personnes qui arrêtent de travailler et recommencent à travailler au cours d'une période de prestations ultérieure."
- src="/images/CERB.JPG" width="500" > </figure>
+ src="/images/CERB.jpg" width="500" > </figure>
 <figcaption>Le modèle afficher/masquer pour l'une des pages de la PCU (l'image est en anglais).</figcaption>
 <br>
 
