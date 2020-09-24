@@ -7,8 +7,8 @@ date:   2020-09-24
 published: true
 draft: true
 lang: fr
-alt: "Utiliser le modèle afficher/masquer pour faire des choix"
-description: "En novembre 2019, le BTN a modifié les directives de Canada.ca pour permettre l’utilisation du modèle afficher/masquer afin de présenter un choix entre des réponses mutuellement exclusives."
+alt: "Améliorer le site Canada.ca en se concentrant sur les principales tâches liées à la COVID-19"
+description: "En mai 2020, le BTN a collaboré avec Gerry, l’Organisation mondiale de la Santé (OMS), Santé Canada et l’Agence de la santé publique du Canada à une étude visant à déterminer les principales tâches liées à la COVID-19 sur Canada.ca."
 ---
 La structure du site Canada.ca est conçue pour représenter les principales tâches que les Canadiens essaient d’accomplir sur le site. Il est essentiel d’utiliser des données pour comprendre leurs besoins changeants afin de s’assurer que le bon contenu est toujours au premier plan.
 
