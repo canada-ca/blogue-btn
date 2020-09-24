@@ -73,8 +73,8 @@ Même en cas de pandémie, les données probantes des Canadiens devraient guider
 
 * [Mesurer les résultats pour améliorer les services numériques](https://blogue.canada.ca/2018/02/23/Mesurer-r%C3%A9sultats-am%C3%A9liorer-services-num%C3%A9riques.html)
 * [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
-* [Article «&nbsp;What really matters: focusing on top tasks&nbsp;»](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)(en anglais seulement)
-* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/)(en anglais seulement)
+* [Article «&nbsp;What really matters: focusing on top tasks&nbsp;»](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) (en anglais seulement)
+* [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/) (en anglais seulement)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
