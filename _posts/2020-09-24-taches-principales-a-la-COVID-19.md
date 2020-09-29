@@ -48,7 +48,20 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 <img class="img-responsive border" alt="Un graphique circulaire montre que 7 tâches ont reçu les 25 % de votes les plus importants. Le graphique montre que les 25 % de votes suivants ont été répartis sur 11 tâches, puis 18 tâches et les 25 % de votes finaux ont été répartis sur 42 tâches."
  src="/images/top-task.png" width="700">
 </figure>
-<figcaption>Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais).</figcaption>
+<br>
+<details>
+<summary>Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais).</summary>
+<h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
+<ol>
+<li> Financial support, benefits for individuals and families (eligibility, availability, training)</li>
+<li>Money issues, personal finances, savings, pensions</li>
+<li>Confirmed cases, deaths, recoveries (daily, total) </li>
+<li>New outbreak, second wave (response, containment) </li>
+<li>Vaccine (development, availability, safety) </li>
+<li>Latest news, latest research (alerts, directives, updates) </li>
+<li>Government strategy (long-term control, lockdown exit, transition, economy reboot) </li>
+</ol>
+</details>
 <br>
 
 Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 % des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie était encore assez récente, nous étions peu surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. L'OMS et les autres pays ont tous constaté l'émergence de 7 à 10 tâches principales similaires.
