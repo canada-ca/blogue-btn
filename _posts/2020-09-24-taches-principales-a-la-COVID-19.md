@@ -50,15 +50,15 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 </figure>
 <details>
 <summary>Les résultats de l'étude canadienne sur les tâches principales (l'image est en anglais).</summary>
-<h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
+<h3>Sélectionnez jusqu'à 5 tâches / ressources qui sont les PLUS IMPORTANTES pour vous lorsque vous interagissez avec le gouvernement du Canada.</h3>
 <ol>
-<li> Financial support, benefits for individuals and families (eligibility, availability, training)</li>
-<li>Money issues, personal finances, savings, pensions</li>
-<li>Confirmed cases, deaths, recoveries (daily, total) </li>
-<li>New outbreak, second wave (response, containment) </li>
-<li>Vaccine (development, availability, safety) </li>
-<li>Latest news, latest research (alerts, directives, updates) </li>
-<li>Government strategy (long-term control, lockdown exit, transition, economy reboot) </li>
+<li>Soutien financier, prestations pour les personnes et les familles (admissibilité, disponibilité, formation)</li>
+<li>Questions d'argent, finances personnelles, épargne, pensions</li>
+<li>Cas confirmés, décès, rétablissements(par jour, total)</li>
+<li>Nouvelle éclosion, deuxième vague (réaction, confinement)</li>
+<li>Vaccin (développement, disponibilité, sécurité)</li>
+<li>Dernières nouvelles, dernières recherches (alertes, directives, mises à jour)</li>
+<li>Stratégie du gouvernement (contrôle à long terme, sortie de confinement, transition, redémarrage de l'économie)</li>
 </ol>
 </details>
 <br>
