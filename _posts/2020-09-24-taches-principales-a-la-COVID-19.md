@@ -91,6 +91,7 @@ Même en cas de pandémie, les données probantes des Canadiens devraient guider
 * [Comment nous optimisons les principales tâches sur le site Canada.ca](https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html)
 * [Article «&nbsp;What really matters: focusing on top tasks&nbsp;»](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks) (en anglais seulement)
 * [Site Web de Gerry McGovern](http://www.gerrymcgovern.com/) (en anglais seulement)
+* [Étude sur les étiquettes : quels mots fonctionnent le mieux](https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html)
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
