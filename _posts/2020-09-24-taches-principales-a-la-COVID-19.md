@@ -24,7 +24,7 @@ Pour préparer l’étude originale, Gerry a travaillé avec une équipe interna
  
 Les gens ont reçu une liste contenant environ 70 tâches dans un ordre aléatoire. On leur a demandé de voter pour les cinq tâches les plus importantes pour eux lorsqu’ils interagissent avec le gouvernement ou l’OMS. Lorsque les habitudes de vote sont devenues claires, l’équipe de Gerry a effectué une analyse et a produit des résultats qui ont permis d’organiser la liste des tâches principales en fonction des tâches précises liées à la COVID-19 qui ont été le plus fréquemment choisies.
 
-## Mise en application au Canada
+### Mise en application au Canada
 
 Par la suite, Gerry a aidé la Norvège, le Canada, l’Irlande et la Nouvelle-Zélande à produire une version personnalisée de l’étude originale de l’OMS sur leurs propres sites et dans leurs propres langues officielles. Nous avons ajouté quelques tâches supplémentaires pour que l’étude corresponde au contexte canadien (p. ex., l’aide financière). 
 
@@ -32,7 +32,7 @@ Au Canada, l’invitation à participer à l’étude a été offerte de façon 
  
 Encore une fois, l’équipe de Gerry a effectué une analyse et a classé les tâches les plus importantes. 
 
-## Résultats canadiens
+### Résultats canadiens
 
 Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 
@@ -63,6 +63,8 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 </details>
 <br>
 
+#### Examiner de plus près les résultats
+
 Ces 7 tâches représentaient 25 % des votes. Ce nombre de tâches qui obtient 25 % des votes est élevé dans une étude sur les principales tâches. Il est plus habituel de voir seulement quelques tâches émerger clairement en tête du classement. Toutefois, compte tenu du fait que la pandémie était encore assez récente, nous étions peu surpris de voir une grande variété de sujets sur lesquels les gens aimeraient en savoir plus. L'OMS et les autres pays ont tous constaté l'émergence de 7 à 10 tâches principales similaires.
 
 Plusieurs des principales tâches ont confirmé ce que nous avons vu dans les données d’analyse et des centres d’appels (par exemple, qu’il y avait plus d’intérêt pour l’aide financière que pour le nombre de cas COVID-19).
@@ -70,6 +72,8 @@ Plusieurs des principales tâches ont confirmé ce que nous avons vu dans les do
 Certaines des tâches parmi les sept principales nous ont toutefois surpris. Nous ne nous attendions pas à ce que les « dernières mises à jour&nbsp;» et la «&nbsp;stratégie gouvernementale&nbsp;» figurent si haut dans la liste des priorités des gens. 
 
 En y regardant de plus près, nous nous sommes rendu compte que des nouvelles et des annonces étaient disponibles sur le site, mais qu’elles étaient dissimulées au bas de la page de mise à jour sur l’éclosion. Les analyses ont montré qu’elles n’étaient pas beaucoup utilisées à cet endroit. L’étude nous a révélé ce problème de navigation et a fait ressortir l’importance de rassembler au même endroit les nouvelles sur la COVID-19 de l’ensemble du gouvernement.
+
+#### Mesures que nous avons prises en fonction des résultats
 
 Pour répondre à ce besoin, l’équipe de l’éditeur principal de Service Canada a travaillé avec le Bureau du Conseil privé et le BTN à l’élaboration et au lancement d’une page contenant les dernières annonces sur la COVID-19. Cette page présente les dernières nouvelles et annonces de tous les ministères concernant la pandémie. Le contenu de la page est automatiquement extrait de la salle de presse du GC. Cela permet de réduire le fardeau de maintenance pour les équipes Web. Le jour où le lien vers la nouvelle page a été placé sur la page principale liée au coronavirus, il est devenu l’un des dix principaux liens sur lesquels les visiteurs ont cliqué lorsqu’ils étaient sur cette page d’accueil.
 
