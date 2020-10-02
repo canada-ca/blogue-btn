@@ -113,7 +113,7 @@ Les auditoires se comportent et interagissent différemment dans l’espace num�
 * [Projets d'amélioration du contenu](https://blogue.canada.ca/pages/apercu-projet.html)
 * [Guide de rédaction du contenu du site Canada.ca](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/guide-redaction-contenu-canada.html)
 * [Système de conception de Canada.ca](https://www.canada.ca/fr/gouvernement/a-propos/systeme-conception.html)
-* [Étude sur les étiquettes : quels mots fonctionnent le mieux](https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html)
+
 
 ## Communiquez avec le Bureau de la transformation numérique du Secrétariat du Conseil du Trésor 
 * Courriel : [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
