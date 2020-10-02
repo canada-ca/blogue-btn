@@ -54,7 +54,7 @@ Principaux résultats (25 % des votes), 7 principales tâches sur Canada.ca :
 <ol>
 <li>Soutien financier, prestations pour les personnes et les familles (admissibilité, disponibilité, formation)</li>
 <li>Questions d'argent, finances personnelles, épargne, pensions</li>
-<li>Cas confirmés, décès, rétablissements(par jour, total)</li>
+<li>Cas confirmés, décès, rétablissements (par jour, total)</li>
 <li>Nouvelle éclosion, deuxième vague (réaction, confinement)</li>
 <li>Vaccin (développement, disponibilité, sécurité)</li>
 <li>Dernières nouvelles, dernières recherches (alertes, directives, mises à jour)</li>
