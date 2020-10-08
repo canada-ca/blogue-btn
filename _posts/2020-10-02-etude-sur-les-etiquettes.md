@@ -8,8 +8,7 @@ published: true
 draft: true
 lang: fr
 alt: "Étude sur les étiquettes : quels mots fonctionnent le mieux"
-description: "Comment choisir des étiquettes pour les catégories et les liens sur une page, et comment elles améliorent la facilité de repérage et l'accès aux tâches principales. Résultats de l'étude sur l'étiquetage pour la page Canada.ca/Coronavirus."
-keywords: "étiquettes, tâche principale, nommer les liens, identifier les catégories, expérience utilisateurs, améliorer le répérage, recherche de conception, recherche d'utilisateurs, conception de contenu, identification d'étiquettes claires"
+description: "Canada.ca/Coronavirus est l’une des pages les plus consultées sur le site Canada.ca. Cette semaine, nous examinons les étiquettes que nous avons choisies pour les catégories et les liens sur cette page, et la façon dont elles améliorent la «&nbsp;repérabilité&nbsp;» des principales tâches."
 ---
 Canada.ca/Coronavirus est l’une des pages les plus consultées sur le site Canada.ca. Des équipes dans l’ensemble du gouvernement ont collaboré et mis à jour cette page régulièrement pour tenir compte des besoins changeants du public canadien. Dans le billet de blogue de la semaine dernière, nous avons parlé de la façon dont nous avons organisé Canada.ca/coronavirus en fonction des principales tâches.
 
