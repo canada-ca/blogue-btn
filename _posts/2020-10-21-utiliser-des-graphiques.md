@@ -69,7 +69,7 @@ Les campagnes de sensibilisation du public étaient fondées sur les images, car
  
 En utilisant des images, les T.N.-O. a pu concilier l’accessibilité linguistique et l’accessibilité technique et s’assurer que tout le monde a compris le message, ce qui signifie qu’ils ont été en mesure de transmettre les concepts de base les plus importants à tous leurs auditoires, peu importe la connaissance de la langue orale ou écrite de ces derniers.
 
-## Un dernier mot
+## Mot de la fin
 
 Il faut plus de temps pour charger des pages comportant beaucoup de graphiques. Il faut s’employer davantage à les rendre accessibles et compatibles avec les appareils mobiles. Nous décourageons souvent l’utilisation de graphiques, car ils peuvent aussi détourner l’attention du but principal d’une page. Toutefois, comme nous le voyons ici, un graphique bien choisi, utilisé pour les bonnes raisons, peut parfois améliorer la compréhension.
 
