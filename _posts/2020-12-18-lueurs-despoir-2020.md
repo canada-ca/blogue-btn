@@ -53,9 +53,9 @@ Alors que 2021 pointe à l’horizon, la communauté #GCnumérique souhaiterait 
  
 <p>- <b>Lana Stewart, Bureau de la transformation numérique</b></p>
  
-<p>7. « Cela a été une étude de cas sur le travail à distance qui a (je crois) convaincu ma haute gestion que les employés peuvent travailler efficacement à partir de leur domicile plus souvent. Dans les jours précédant le confinement, j’ai tenté de convaincre mon directeur général de permettre à l’un de mes employés de travailler à partir de la maison deux jours par semaine, pour permettre à son épouse de retourner au travail. Sans succès. Le fait de travailler deux jours à l’extérieur du milieu de travail représentait un risque trop élevé. Maintenant, nous travaillons tous à distance. Notre productivité? Elle a augmenté.</p>
+<p>7. « Je crois que la haute direction a été séduite par une étude sur le travail à distance. Cette étude a démontré que les employés pouvaient travailler efficacement s’ils travaillaient plus souvent à partir de la maison. Maintenant, nous travaillons tous à distance. Notre productivité? Elle a augmenté.</p>
 
-<p>Les relations personnelles avec nos coéquipiers des régions sont également plus fortes. Le travail à distance égalise les chances. Des plateformes comme Slack et MS Teams nous ont permis de redéfinir nos conversations de couloir. Nos deux employés régionaux sont tout aussi présents dans les conversations légères qui ont lieu dans notre section #hors-sujet. Ils ont maintenant des liens sociaux plus forts avec les autres membres de l’équipe. »</p>
+<p>Les relations personnelles avec nos coéquipiers des régions sont également plus fortes. Le travail à distance égalise les chances. Des plateformes comme Slack et MS Teams nous ont permis de redéfinir nos conversations de couloir. Nos employés régionaux sont tout aussi présents, dans les conversations légères qui ont lieu dans notre section #insolite. Ils ont maintenant des liens sociaux plus forts avec les autres membres de l’équipe. »</p>
  
 <p>- <b>Fiona Currie, Agriculture et Agroalimentaire Canada</b></p>
  
