@@ -88,7 +88,7 @@ Merci à tous ceux qui ont travaillé de manière constante pour venir en aide �
  
 Nous continuerons à renforcer notre communauté #GCNumérique et à lui permettre de croître en 2021. Prenez le temps de vous reposer, durant la période des Fêtes. C’est un repos amplement mérité!
   
-## Pour en apprendre davantage
+## Pour en savoir davantage
  
 * [Les dix leçons tirées en 2019 par l’équipe de conception du contenu du site Canada.ca](https://blogue.canada.ca/2019/12/20/les-dix-lecons.html)
 
