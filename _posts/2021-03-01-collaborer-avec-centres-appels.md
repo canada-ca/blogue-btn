@@ -23,7 +23,7 @@ Voici un exemple de la façon dont la collaboration avec le personnel du centre 
 
 ## Les données des centres d’appels à l’appui de la recherche en conception
 
-À la fin mars 2020, les centres d’appels ont reçu de nombreux appels et courriels au sujet de l’assurance-emploi (AE) et de la Prestation canadienne d’urgence (PCU). Le centre d’appels du numéro principal 1-800 O-Canada du gouvernement du Canada a reçu le plus grand nombre d’appels et Service Canada, le plus grand nombre de courriels. 
+À la fin mars 2020, les centres d’appels ont reçu de nombreux appels et courriels au sujet de l’assurance-emploi (AE) et de la Prestation canadienne d’urgence (PCU). Un volume d'appels très élevé arrivaient au numéro principal du gouvernement du Canada, le 1-800 O Canada, et au courrier électronique géré par Service Canada.
 
 Le fait que les centres d'appels soient débordés faisait la une des journaux, car les Canadiens inquiets attendaient pendant des heures pour obtenir de l'aide sur leur dossier. Il fallait donc agir rapidement.  
 
