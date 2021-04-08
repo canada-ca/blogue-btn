@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les questions interactives pour aider les gens"
-langpage: "https://blog.canada.ca/2021/04/08/utilisation-de-questions-interactives.html"
+langpage: "https://blog.canada.ca/2021/04/08/using-interactive-questions.html"
 date: 2021-04-08
 published: true
 draft: true
