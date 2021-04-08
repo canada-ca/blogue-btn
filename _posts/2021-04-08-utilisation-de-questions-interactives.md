@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: fr
 alt: "Les questions interactives pour aider les gens"
-description: "Nous avons voulu partager certaines de nos expériences les plus récentes en matière d'utilisation des données pour améliorer le fonctionnement de contenus importants."
+description: "La configuration est utilisée pour présenter une séquence de questions simples qui mènent à la réponse dont les personnes ont besoin pour poursuivre leur tâche ou l’achever."
 ---
 Nous désignons parfois le modèle de questions interactives comme un «&nbsp;assistant&nbsp;».
 
