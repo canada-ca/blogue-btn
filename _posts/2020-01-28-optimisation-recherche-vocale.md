@@ -57,6 +57,8 @@ Donc, les techniques traditionnelles de référencement s’appliquent. Misez su
 
 Les données structurées sont ajoutées à une page sous forme de code dans un format standardisé pour aider les moteurs de recherche à interpréter votre contenu. Elles permettent d'obtenir des résultats de recherche plus significatifs.
 
+[Ajout de données structurées sur les pages de Canada.ca](https://conception.canada.ca/directives/donnees-structurees.html)
+
 Pour améliorer les résultats de recherche vocale :
 
 * Ajoutez des données structurées [pouvant être énoncées (speakable)](https://developers.google.com/search/docs/data-types/speakable?hl=fr) pour indiquer quel est le meilleur contenu pour une réponse vocale et pour améliorer les résultats de recherche affichés
